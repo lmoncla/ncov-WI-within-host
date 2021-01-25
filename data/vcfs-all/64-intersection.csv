@@ -1,0 +1,13 @@
+	SNP	POS_x	rep1_percent	rep2_percent	%
+1	orf1ab_dupT_Leu2146fs_frameshift	6696.0	0.059000000000000004	0.059000000000000004	0.059000000000000004
+2	orf1ab_dupT_As544fs_frameshift&stop	7889.0	0.0102	0.0108	0.0105
+3	orf1ab_C>T_Ser2839Ser_synonymous	8782.0	0.9932	0.9916	0.9924
+4	orf1ab_dupA_Pro3851fs_frameshift	11812.0	0.0147	0.0107	0.0127
+5	orf1ab_G>T_Ala3901Ser_missense	11966.0	0.1047	0.0916	0.09815
+8	orf1ab_T>G_Leu4968Trp_missense	15167.0	0.0108	0.0126	0.0117
+9	orf1ab_dupT_Val5236fs_frameshift	15965.0	0.0414	0.0397	0.04055
+10	orf1ab_A>G_Tyr5865Cys_missense	17858.0	0.9939	0.9912	0.99255
+11	orf1ab_dupT_Ser6037fs_frameshift	18368.0	0.0229	0.022000000000000002	0.02245
+12	orf1ab_dupT_As576fs_frameshift&stop	19983.0	0.0258	0.0255	0.02565
+13	ORF8_T>C_Leu84Ser_missense	28144.0	0.9991	0.9982	0.99865
+14	ORF8_dupT_Leu109fs_frameshift	28214.0	0.0167	0.0175	0.0171

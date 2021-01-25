@@ -1,0 +1,7 @@
+	SNP	POS_x	rep1_percent	rep2_percent	%
+0	CHR_START-orf1ab_T>A__intergenic-region	2.0	0.0588	0.1096	0.0842
+1	CHR_START-orf1ab_A>T__intergenic-region	4.0	0.0735	0.13699999999999998	0.10524999999999998
+2	CHR_START-orf1ab_T>C__intergenic-region	10.0	0.0972	0.1233	0.11025
+7	CHR_START-orf1ab_C>T__intergenic-region	241.0	0.5373	0.5507	0.544
+9	orf1ab_C>T_Phe924Phe_synonymous	3037.0	0.6266	0.4117	0.51915
+12	orf1ab_C>T_Pro4715Leu_missense	14408.0	0.7571	0.5604	0.65875

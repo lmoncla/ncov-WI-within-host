@@ -1,0 +1,4 @@
+	SNP	POS_x	rep1_percent	rep2_percent	%
+2	orf1ab_dupT_Leu2146fs_frameshift	6696.0	0.0468	0.1045	0.07565
+4	orf1ab_C>T_Pro4715Leu_missense	14408.0	0.6289	0.0625	0.3457
+5	orf1ab_dupT_Val5236fs_frameshift	15965.0	0.0321	0.1045	0.0683
