@@ -7,3 +7,12 @@ The goal of this project is to characterize within-host diversity during acute S
 This repository contains scripts for reading in intersection vcfs (vcfs containing only variants that were identified in both biological sequencing replicates) and summarizing patterns of within-host variation. There are also scripts to query whether variants detected within-host are present in the global phylogeny and to quantify aspects of within-host variant transmission. JSON files for the Wisconsin-specific Nextstrain builds are being hosted by Gage Moreno at https://github.com/gagekmoreno/Wisconsin-SARS-CoV-2. 
 
 Individuals are welcome to borrow and use this code if it is helpful, just let me know what you are up to. 
+
+## Install 
+This repo requires a `baltic/baltic.py`, which is available [here](https://github.com/evogytis/baltic). I have also placed a working version within this repo, and all scripts within this repo point to that local baltic version. Every notebook also requires R and ryp2, a package for using R within python jupyter notebooks. 
+
+## Project Structure
+* `data/auspice-jsons/`: contains JSON trees viewable with Nextstrain. These JSONs correspond to frequently-updated [Wisconsin-specific Nextstrain builds](https://nextstrain.org/community/gagekmoreno/Wisconsin-SARS-CoV-2/ncov/wisconsin/2021-1-15?c=recency) curated by Gage Moreno and [updated here](https://github.com/gagekmoreno/Wisconsin-SARS-CoV-2)
+* `data/vcfs-all/`: contains tab-separated files for each sample analyzed in this dataset. These files only contain SNVs detected in both biological sequencing replicates for a given sample. These serve as the input files for all analyses run in this repository. 
+* `data/consensus-sequences` is a file containing all consensus sequences generated from Wisconsin and shown in the phylogenies. 
+* `scripts`: contains ipython notebooks used to analyze the vcf files and generate figures 
