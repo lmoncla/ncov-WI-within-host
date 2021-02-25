@@ -1,10 +1,4 @@
 	SNP	POS_x	rep1_percent	rep2_percent	%
-6	orf1ab_A>G_Glu243Glu_synonymous	994.0	0.9589	0.9377	0.9482999999999999
-26	orf1ab_dupT_Leu2146fs_frameshift	6696.0	0.0926	0.042	0.0673
-46	orf1ab_C>A_Val3629Val_synonymous	11152.0	0.0632	0.0943	0.07875
-62	orf1ab_T>G_Met4958Arg_missense	15137.0	0.0144	0.0172	0.0158
-63	orf1ab_A>C_Thr4959Pro_missense	15139.0	0.0164	0.0172	0.016800000000000002
-64	orf1ab_C>A_Thr4959Thr_synonymous	15141.0	0.0225	0.0207	0.0216
-135	ORF8_G>A_Val99Ile_missense	28188.0	0.0128	0.0116	0.012199999999999999
-137	ORF8_dupT_Leu109fs_frameshift	28214.0	0.051	0.0114	0.0312
-154	ORF10-CHR_END_n.G>T__intergenic-region	29711.0	0.9989	1.0	0.99945
+2	orf1ab_A>G_Glu243Glu_synonymous	994.0	0.9586	0.9367	0.94765
+21	orf1ab_C>A_Val3629Val_synonymous	11152.0	0.064	0.0918	0.0779
+47	ORF10-CHR_END_G>T__intergenic-region	29711.0	0.9989	1.0	1.0

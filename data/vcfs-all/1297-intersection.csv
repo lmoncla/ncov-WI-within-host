@@ -1,5 +1,14 @@
 	SNP	POS_x	rep1_percent	rep2_percent	%
-2	CHR_START-orf1ab_C>T__intergenic-region	21.0	0.08	0.0415	0.06075
-4	CHR_START-orf1ab_C>T__intergenic-region	241.0	0.7546	0.7465	0.75055
-5	orf1ab_C>T_Phe924Phe_synonymous	3037.0	0.7254	0.596	0.6607000000000001
-7	orf1ab_C>T_Pro4715Leu_missense	14408.0	0.8167	0.753	0.78485
+0	CHR_START-orf1ab_C>T__intergenic-region	241	0.9939	0.9902	1.0
+1	orf1ab_C>T_Thr265Ile_missense	1059	0.9949	0.9905	1.0
+2	orf1ab_C>T_Phe924Phe_synonymous	3037	0.9929	0.9868	1.0
+3	orf1ab_T>C_Leu4643Leu_synonymous	14191	0.991	0.9872	1.0
+4	orf1ab_C>T_Pro4715Leu_missense	14408	0.9940000000000001	0.9864	1.0
+8	orf1ab_A>C_Pro5226Pro_synonymous	15942	0.9926	0.9866	1.0
+9	orf1ab_C>T_Cys5332Cys_synonymous	16260	0.9885	0.9846	1.0
+10	S_A>G_As14Gly_missense	23403	0.9961	0.9864	1.0
+11	S_A>T_Pro897Pro_synonymous	24253	0.9892	0.9818	1.0
+12	S_C>T_Phe1148Phe_synonymous	25006	0.9940000000000001	0.9848	1.0
+13	ORF3a_G>T_Gln57His_missense	25563	0.9933	0.9851	1.0
+14	N_C>A_Ser183Tyr_missense	28821	0.9961	0.9605	1.0
+15	ORF10_C>T_Arg24Cys_missense	29627	0.998	0.996	1.0

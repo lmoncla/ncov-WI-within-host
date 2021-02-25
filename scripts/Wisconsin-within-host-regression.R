@@ -5,7 +5,7 @@ require(ggplot2)
 
 
 # read in dataframe
-df = read.csv("../data/WI-variants-vs-geo-2021-02-08.csv", header=TRUE)
+df = read.csv("../data/WI-variants-vs-geo-2021-02-24.csv", header=TRUE)
 
 # remove NaNs and drop Ct column
 df = subset(df, select=-c(Ct_diff))
@@ -197,7 +197,7 @@ p <- ggplot(data=df2, aes(y=measurement_f, x=mean, color=measurement_f)) +
   labs(x="\nmean",y="coefficient\n")+
   scale_color_manual(values=c(intercept=grey,variance=grey,distance=red,divergence=yellow,clade=blue,household=purple), guide=FALSE)+
   #scale_y_continuous(breaks=seq(0,0.8,0.2), limits=c(0,0.8))+
-  scale_x_continuous(breaks=seq(0,0.4,0.1), limits=c(-0.05,0.4))+
+  scale_x_continuous(breaks=seq(0,0.3,0.1), limits=c(-0.05,0.3))+
   theme(panel.grid.major=element_line(colour=NA,size=NA))+    
   theme(panel.grid.minor=element_line(colour=NA,size=NA))+    
   theme(strip.background = element_rect(colour=NA, fill=NA))+
@@ -214,7 +214,7 @@ p <- ggplot(data=df2, aes(y=measurement_f, x=mean, color=measurement_f)) +
   theme(panel.background=element_rect(fill=NA))+
   theme(legend.key=element_rect(fill=NA))
 
-ggsave("regression_coefficients.pdf", width = 6, height = 4, device = "pdf", path = "../figures/individual-pdfs", dpi = 300)
+ggsave("regression_coefficients-2020-02-24.pdf", width = 6, height = 4, device = "pdf", path = "../figures/individual-pdfs", dpi = 300)
 p 
 
 # UP TO HERE I AM UP TO DATE 
