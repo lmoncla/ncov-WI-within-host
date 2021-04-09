@@ -1,0 +1,6 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	read_depth	FREQ	gene_POS	SNP
+70	9911	T	C	missense	orf1ab	9646T>C	Tyr3216His	718	0.1323	9646	orf1ab_9646T>C_Tyr3216His_missense
+90	15157	C	A	missense	orf1ab	14893C>A	Gln4965Lys	1771	0.0407	14893	orf1ab_14893C>A_Gln4965Lys_missense
+91	15168	G	A	synonymous	orf1ab	14904G>A	Leu4968Leu	1771	0.0282	14904	orf1ab_14904G>A_Leu4968Leu_synonymous
+113	28887	C	T	missense	N	614C>T	Thr205Ile	3177	0.0639	614	N_614C>T_Thr205Ile_missense
+114	29711	G	T	intergenic	ORF10-CHR_END	29711G>T		2392	0.9728	29711	ORF10-CHR_END_29711G>T__intergenic

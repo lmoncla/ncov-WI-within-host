@@ -1,0 +1,52 @@
+##fileformat=VCFv4.1
+##source=VarScan2
+##INFO=<ID=ADP,Number=1,Type=Integer,Description="Average per-sample depth of bases with Phred score >= 30">
+##INFO=<ID=WT,Number=1,Type=Integer,Description="Number of samples called reference (wild-type)">
+##INFO=<ID=HET,Number=1,Type=Integer,Description="Number of samples called heterozygous-variant">
+##INFO=<ID=HOM,Number=1,Type=Integer,Description="Number of samples called homozygous-variant">
+##INFO=<ID=NC,Number=1,Type=Integer,Description="Number of samples not called">
+##FILTER=<ID=str10,Description="Less than 10% or more than 90% of variant supporting reads on one strand">
+##FILTER=<ID=indelError,Description="Likely artifact due to indel reads at this position">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+##FORMAT=<ID=GQ,Number=1,Type=Integer,Description="Genotype Quality">
+##FORMAT=<ID=SDP,Number=1,Type=Integer,Description="Raw Read Depth as reported by SAMtools">
+##FORMAT=<ID=DP,Number=1,Type=Integer,Description="Quality Read Depth of bases with Phred score >= 30">
+##FORMAT=<ID=RD,Number=1,Type=Integer,Description="Depth of reference-supporting bases (reads1)">
+##FORMAT=<ID=AD,Number=1,Type=Integer,Description="Depth of variant-supporting bases (reads2)">
+##FORMAT=<ID=FREQ,Number=1,Type=String,Description="Variant allele frequency">
+##FORMAT=<ID=PVAL,Number=1,Type=String,Description="P-value from Fisher's Exact Test">
+##FORMAT=<ID=RBQ,Number=1,Type=Integer,Description="Average quality of reference-supporting bases (qual1)">
+##FORMAT=<ID=ABQ,Number=1,Type=Integer,Description="Average quality of variant-supporting bases (qual2)">
+##FORMAT=<ID=RDF,Number=1,Type=Integer,Description="Depth of reference-supporting bases on forward strand (reads1plus)">
+##FORMAT=<ID=RDR,Number=1,Type=Integer,Description="Depth of reference-supporting bases on reverse strand (reads1minus)">
+##FORMAT=<ID=ADF,Number=1,Type=Integer,Description="Depth of variant-supporting bases on forward strand (reads2plus)">
+##FORMAT=<ID=ADR,Number=1,Type=Integer,Description="Depth of variant-supporting bases on reverse strand (reads2minus)">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	20_rep1
+NC_045512.2|Wuhan-Hu-1|complete_genome.	241	.	C	T	.	PASS	ADP=1637;WT=0;HET=0;HOM=1;NC=0	GT:GQ:SDP:DP:RD:AD:FREQ:PVAL:RBQ:ABQ:RDF:RDR:ADF:ADR	1/1:255:1637:1637:0:1634:100%:0E0:0:71:0:0:1524:110
+NC_045512.2|Wuhan-Hu-1|complete_genome.	906	.	C	T	.	PASS	ADP=2711;WT=0;HET=1;HOM=0;NC=0	GT:GQ:SDP:DP:RD:AD:FREQ:PVAL:RBQ:ABQ:RDF:RDR:ADF:ADR	0/1:94:2711:2711:2661:39:1.44%:3.4607E-10:38:38:2:2659:0:39
+NC_045512.2|Wuhan-Hu-1|complete_genome.	1059	.	C	T	.	PASS	ADP=2045;WT=0;HET=0;HOM=1;NC=0	GT:GQ:SDP:DP:RD:AD:FREQ:PVAL:RBQ:ABQ:RDF:RDR:ADF:ADR	1/1:255:2045:2045:3:2042:99.85%:0E0:39:38:3:0:2042:0
+NC_045512.2|Wuhan-Hu-1|complete_genome.	1135	.	G	GA	.	PASS	ADP=2266;WT=0;HET=1;HOM=0;NC=0	GT:GQ:SDP:DP:RD:AD:FREQ:PVAL:RBQ:ABQ:RDF:RDR:ADF:ADR	0/1:61:2266:2266:2236:27:1.19%:7.5942E-7:71:73:1977:259:24:3
+NC_045512.2|Wuhan-Hu-1|complete_genome.	1730	.	G	A	.	PASS	ADP=2175;WT=0;HET=1;HOM=0;NC=0	GT:GQ:SDP:DP:RD:AD:FREQ:PVAL:RBQ:ABQ:RDF:RDR:ADF:ADR	0/1:69:2175:2175:2138:30:1.38%:1.1277E-7:70:71:1984:154:29:1
+NC_045512.2|Wuhan-Hu-1|complete_genome.	3037	.	C	T	.	PASS	ADP=1483;WT=0;HET=0;HOM=1;NC=0	GT:GQ:SDP:DP:RD:AD:FREQ:PVAL:RBQ:ABQ:RDF:RDR:ADF:ADR	1/1:255:1483:1483:0:1481:100%:0E0:0:69:0:0:1213:268
+NC_045512.2|Wuhan-Hu-1|complete_genome.	5861	.	G	GT	.	PASS	ADP=1952;WT=0;HET=1;HOM=0;NC=0	GT:GQ:SDP:DP:RD:AD:FREQ:PVAL:RBQ:ABQ:RDF:RDR:ADF:ADR	0/1:52:1952:1952:1929:21:1.08%:5.2204E-6:38:37:1:1928:0:21
+NC_045512.2|Wuhan-Hu-1|complete_genome.	6696	.	C	CT	.	PASS	ADP=1995;WT=0;HET=1;HOM=0;NC=0	GT:GQ:SDP:DP:RD:AD:FREQ:PVAL:RBQ:ABQ:RDF:RDR:ADF:ADR	0/1:255:1995:1995:1782:181:9.07%:4.0336E-55:72:72:1620:162:170:11
+NC_045512.2|Wuhan-Hu-1|complete_genome.	6884	.	G	T	.	PASS	ADP=1280;WT=0;HET=0;HOM=1;NC=0	GT:GQ:SDP:DP:RD:AD:FREQ:PVAL:RBQ:ABQ:RDF:RDR:ADF:ADR	1/1:255:1280:1280:0:1280:100%:0E0:0:72:0:0:1231:49
+NC_045512.2|Wuhan-Hu-1|complete_genome.	7889	.	G	GT	.	PASS	ADP=1208;WT=0;HET=1;HOM=0;NC=0	GT:GQ:SDP:DP:RD:AD:FREQ:PVAL:RBQ:ABQ:RDF:RDR:ADF:ADR	0/1:44:1208:1208:1190:18:1.49%:3.6031E-5:38:37:3:1187:0:18
+NC_045512.2|Wuhan-Hu-1|complete_genome.	10619	.	C	CA	.	PASS	ADP=1871;WT=0;HET=1;HOM=0;NC=0	GT:GQ:SDP:DP:RD:AD:FREQ:PVAL:RBQ:ABQ:RDF:RDR:ADF:ADR	0/1:84:1871:1871:1819:32:1.71%:3.4862E-9:38:38:9:1810:0:32
+NC_045512.2|Wuhan-Hu-1|complete_genome.	11074	.	CT	C	.	PASS	ADP=3341;WT=0;HET=1;HOM=0;NC=0	GT:GQ:SDP:DP:RD:AD:FREQ:PVAL:RBQ:ABQ:RDF:RDR:ADF:ADR	0/1:130:3341:3341:3271:55:1.65%:9.2373E-14:36:38:1978:1293:55:0
+NC_045512.2|Wuhan-Hu-1|complete_genome.	11812	.	C	CA	.	PASS	ADP=2227;WT=0;HET=1;HOM=0;NC=0	GT:GQ:SDP:DP:RD:AD:FREQ:PVAL:RBQ:ABQ:RDF:RDR:ADF:ADR	0/1:117:2227:2227:2172:47:2.11%:1.7374E-12:37:38:8:2164:0:47
+NC_045512.2|Wuhan-Hu-1|complete_genome.	13541	.	C	T	.	PASS	ADP=1183;WT=0;HET=1;HOM=0;NC=0	GT:GQ:SDP:DP:RD:AD:FREQ:PVAL:RBQ:ABQ:RDF:RDR:ADF:ADR	0/1:27:1183:1183:1163:12:1.01%:1.6687E-3:68:60:995:168:8:4
+NC_045512.2|Wuhan-Hu-1|complete_genome.	14408	.	C	T	.	PASS	ADP=2984;WT=0;HET=0;HOM=1;NC=0	GT:GQ:SDP:DP:RD:AD:FREQ:PVAL:RBQ:ABQ:RDF:RDR:ADF:ADR	1/1:255:2984:2984:0:2984:100%:0E0:0:72:0:0:2802:182
+NC_045512.2|Wuhan-Hu-1|complete_genome.	15964	.	TG	T	.	PASS	ADP=2944;WT=0;HET=1;HOM=0;NC=0	GT:GQ:SDP:DP:RD:AD:FREQ:PVAL:RBQ:ABQ:RDF:RDR:ADF:ADR	0/1:83:2944:2944:2909:35:1.19%:4.6789E-9:69:70:2678:231:34:1
+NC_045512.2|Wuhan-Hu-1|complete_genome.	15965	.	G	GT	.	PASS	ADP=2944;WT=0;HET=1;HOM=0;NC=0	GT:GQ:SDP:DP:RD:AD:FREQ:PVAL:RBQ:ABQ:RDF:RDR:ADF:ADR	0/1:255:2944:2944:2426:420:14.44%:5.3308E-130:69:68:2229:197:390:30
+NC_045512.2|Wuhan-Hu-1|complete_genome.	17172	.	C	T	.	PASS	ADP=3327;WT=0;HET=1;HOM=0;NC=0	GT:GQ:SDP:DP:RD:AD:FREQ:PVAL:RBQ:ABQ:RDF:RDR:ADF:ADR	0/1:77:3327:3327:3291:36:1.08%:1.6654E-8:38:38:3291:0:36:0
+NC_045512.2|Wuhan-Hu-1|complete_genome.	18368	.	G	GT	.	PASS	ADP=1774;WT=0;HET=1;HOM=0;NC=0	GT:GQ:SDP:DP:RD:AD:FREQ:PVAL:RBQ:ABQ:RDF:RDR:ADF:ADR	0/1:246:1774:1774:1669:86:4.85%:2.0037E-25:38:38:1669:0:86:0
+NC_045512.2|Wuhan-Hu-1|complete_genome.	19231	.	G	GT	.	PASS	ADP=2638;WT=0;HET=1;HOM=0;NC=0	GT:GQ:SDP:DP:RD:AD:FREQ:PVAL:RBQ:ABQ:RDF:RDR:ADF:ADR	0/1:100:2638:2638:2588:41:1.55%:9.337E-11:38:38:344:2244:10:31
+NC_045512.2|Wuhan-Hu-1|complete_genome.	19983	.	C	CT	.	PASS	ADP=1012;WT=0;HET=1;HOM=0;NC=0	GT:GQ:SDP:DP:RD:AD:FREQ:PVAL:RBQ:ABQ:RDF:RDR:ADF:ADR	0/1:36:1012:1012:993:15:1.48%:2.4777E-4:38:39:993:0:15:0
+NC_045512.2|Wuhan-Hu-1|complete_genome.	21101	.	G	GT	.	PASS	ADP=3943;WT=0;HET=1;HOM=0;NC=0	GT:GQ:SDP:DP:RD:AD:FREQ:PVAL:RBQ:ABQ:RDF:RDR:ADF:ADR	0/1:135:3943:3943:3868:57:1.45%:2.6013E-14:37:37:962:2906:13:44
+NC_045512.2|Wuhan-Hu-1|complete_genome.	23403	.	A	G	.	PASS	ADP=2467;WT=0;HET=0;HOM=1;NC=0	GT:GQ:SDP:DP:RD:AD:FREQ:PVAL:RBQ:ABQ:RDF:RDR:ADF:ADR	1/1:255:2467:2467:1:2466:99.96%:0E0:39:38:0:1:2:2464
+NC_045512.2|Wuhan-Hu-1|complete_genome.	23903	.	G	GT	.	PASS	ADP=1904;WT=0;HET=1;HOM=0;NC=0	GT:GQ:SDP:DP:RD:AD:FREQ:PVAL:RBQ:ABQ:RDF:RDR:ADF:ADR	0/1:67:1904:1904:1878:26:1.37%:1.9266E-7:38:38:1877:1:26:0
+NC_045512.2|Wuhan-Hu-1|complete_genome.	24223	.	C	CT	.	PASS	ADP=1726;WT=0;HET=1;HOM=0;NC=0	GT:GQ:SDP:DP:RD:AD:FREQ:PVAL:RBQ:ABQ:RDF:RDR:ADF:ADR	0/1:90:1726:1726:1681:34:1.97%:8.9662E-10:70:68:1565:116:31:3
+NC_045512.2|Wuhan-Hu-1|complete_genome.	25563	.	G	T	.	PASS	ADP=2720;WT=0;HET=0;HOM=1;NC=0	GT:GQ:SDP:DP:RD:AD:FREQ:PVAL:RBQ:ABQ:RDF:RDR:ADF:ADR	1/1:255:2720:2720:0:2720:100%:0E0:0:37:0:0:0:2720
+NC_045512.2|Wuhan-Hu-1|complete_genome.	28214	.	C	CT	.	PASS	ADP=2068;WT=0;HET=1;HOM=0;NC=0	GT:GQ:SDP:DP:RD:AD:FREQ:PVAL:RBQ:ABQ:RDF:RDR:ADF:ADR	0/1:170:2068:2068:1995:65:3.14%:9.5342E-18:67:38:1917:78:65:0
+NC_045512.2|Wuhan-Hu-1|complete_genome.	29051	.	C	CA	.	PASS	ADP=2003;WT=0;HET=1;HOM=0;NC=0	GT:GQ:SDP:DP:RD:AD:FREQ:PVAL:RBQ:ABQ:RDF:RDR:ADF:ADR	0/1:140:2003:2003:1947:55:2.75%:8.0913E-15:37:37:1632:315:55:0

@@ -1,0 +1,25 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	read_depth	FREQ	gene_POS	SNP
+10	4006	G	A	synonymous	orf1ab	3741G>A	Lys1247Lys	2242	0.0245	3741	orf1ab_3741G>A_Lys1247Lys_synonymous
+11	5706	A	G	missense	orf1ab	5441A>G	Tyr1814Cys	3741	0.0115	5441	orf1ab_5441A>G_Tyr1814Cys_missense
+13	8782	C	T	synonymous	orf1ab	8517C>T	Ser2839Ser	2841	0.9877	8517	orf1ab_8517C>T_Ser2839Ser_synonymous
+14	10619	C	A	missense	orf1ab	10354C>A	Gln3452Lys	2385	0.0101	10354	orf1ab_10354C>A_Gln3452Lys_missense
+15	10930	A	T	synonymous	orf1ab	10665A>T	Thr3555Thr	1821	0.0132	10665	orf1ab_10665A>T_Thr3555Thr_synonymous
+17	15118	G	T	missense	orf1ab	14854G>T	Val4952Phe	1486	0.0108	14854	orf1ab_14854G>T_Val4952Phe_missense
+18	15137	T	G	missense	orf1ab	14873T>G	Met4958Arg	1486	0.0249	14873	orf1ab_14873T>G_Met4958Arg_missense
+19	15139	A	C	missense	orf1ab	14875A>C	Thr4959Pro	1486	0.0336	14875	orf1ab_14875A>C_Thr4959Pro_missense
+20	15150	G	T	missense	orf1ab	14886G>T	Gln4962His	1486	0.031	14886	orf1ab_14886G>T_Gln4962His_missense
+21	15168	G	A	synonymous	orf1ab	14904G>A	Leu4968Leu	1484	0.0236	14904	orf1ab_14904G>A_Leu4968Leu_synonymous
+23	16183	T	A	missense	orf1ab	15919T>A	Tyr5307Asn	1799	0.01	15919	orf1ab_15919T>A_Tyr5307Asn_missense
+24	16381	G	A	missense	orf1ab	16117G>A	Val5373Ile	1799	0.9783	16117	orf1ab_16117G>A_Val5373Ile_missense
+25	16845	T	A	synonymous	orf1ab	16581T>A	Gly5527Gly	2479	0.0105	16581	orf1ab_16581T>A_Gly5527Gly_synonymous
+26	17877	T	C	synonymous	orf1ab	17613T>C	Thr5871Thr	3119	0.9869	17613	orf1ab_17613T>C_Thr5871Thr_synonymous
+27	18080	T	A	missense	orf1ab	17816T>A	Val5939Glu	2538	0.0146	17816	orf1ab_17816T>A_Val5939Glu_missense
+29	19680	T	C	synonymous	orf1ab	19416T>C	Gly6472Gly	2194	0.01	19416	orf1ab_19416T>C_Gly6472Gly_synonymous
+31	20115	C	A	synonymous	orf1ab	19851C>A	Val6617Val	741	0.0135	19851	orf1ab_19851C>A_Val6617Val_synonymous
+32	20316	C	T	synonymous	orf1ab	20052C>T	Phe6684Phe	1317	0.9696	20052	orf1ab_20052C>T_Phe6684Phe_synonymous
+33	21913	A	T	synonymous	S	351A>T	Leu117Leu	2048	0.0107	351	S_351A>T_Leu117Leu_synonymous
+34	25500	G	T	synonymous	ORF3a	108G>T	Pro36Pro	2717	0.9845	108	ORF3a_108G>T_Pro36Pro_synonymous
+35	25866	A	T	synonymous	ORF3a	474A>T	Ile158Ile	2289	0.01	474	ORF3a_474A>T_Ile158Ile_synonymous
+36	28144	T	C	missense	ORF8	251T>C	Leu84Ser	6286	0.9955	251	ORF8_251T>C_Leu84Ser_missense
+38	28878	G	A	missense	N	605G>A	Ser202Asn	1229	0.9984	605	N_605G>A_Ser202Asn_missense
+39	29742	G	A	intergenic	ORF10-CHR_END	29742G>A		1306	0.9893	29742	ORF10-CHR_END_29742G>A__intergenic

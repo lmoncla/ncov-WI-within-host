@@ -1,0 +1,22 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	read_depth	FREQ	gene_POS	SNP
+0	241	C	T	intergenic	CHR_START-orf1ab	241C>T		5238	0.9758	241	CHR_START-orf1ab_241C>T__intergenic
+2	1059	C	T	missense	orf1ab	794C>T	Thr265Ile	6453	0.9814	794	orf1ab_794C>T_Thr265Ile_missense
+4	3037	C	T	synonymous	orf1ab	2772C>T	Phe924Phe	4681	0.9737	2772	orf1ab_2772C>T_Phe924Phe_synonymous
+5	5339	C	T	missense	orf1ab	5074C>T	Pro1692Ser	6701	0.9788	5074	orf1ab_5074C>T_Pro1692Ser_missense
+6	6040	C	T	synonymous	orf1ab	5775C>T	Phe1925Phe	134	0.0522	5775	orf1ab_5775C>T_Phe1925Phe_synonymous
+10	8140	C	T	synonymous	orf1ab	7875C>T	Ser2625Ser	4592	0.9715	7875	orf1ab_7875C>T_Ser2625Ser_synonymous
+11	8208	C	T	missense	orf1ab	7943C>T	Thr2648Ile	4591	0.9712	7943	orf1ab_7943C>T_Thr2648Ile_missense
+15	14408	C	T	missense	orf1ab	14144C>T	Pro4715Leu	7860	0.9804	14144	orf1ab_14144C>T_Pro4715Leu_missense
+16	15118	G	T	missense	orf1ab	14854G>T	Val4952Phe	3690	0.0176	14854	orf1ab_14854G>T_Val4952Phe_missense
+17	15137	T	G	missense	orf1ab	14873T>G	Met4958Arg	3690	0.0195	14873	orf1ab_14873T>G_Met4958Arg_missense
+18	15139	A	C	missense	orf1ab	14875A>C	Thr4959Pro	3690	0.0206	14875	orf1ab_14875A>C_Thr4959Pro_missense
+19	15141	C	A	synonymous	orf1ab	14877C>A	Thr4959Thr	3690	0.032	14877	orf1ab_14877C>A_Thr4959Thr_synonymous
+20	15150	G	T	missense	orf1ab	14886G>T	Gln4962His	3690	0.0523	14886	orf1ab_14886G>T_Gln4962His_missense
+21	15156	T	A	missense	orf1ab	14892T>A	His4964Gln	3690	0.0168	14892	orf1ab_14892T>A_His4964Gln_missense
+23	15168	G	A	synonymous	orf1ab	14904G>A	Leu4968Leu	3690	0.0878	14904	orf1ab_14904G>A_Leu4968Leu_synonymous
+26	16260	C	T	synonymous	orf1ab	15996C>T	Cys5332Cys	5558	0.9759	15996	orf1ab_15996C>T_Cys5332Cys_synonymous
+31	23403	A	G	missense	S	1841A>G	As14Gly	6683	0.9762	1841	S_1841A>G_As14Gly_missense
+33	25440	G	T	missense	ORF3a	48G>T	Lys16Asn	8114	0.9811	48	ORF3a_48G>T_Lys16Asn_missense
+34	25563	G	T	missense	ORF3a	171G>T	Gln57His	8112	0.9832	171	ORF3a_171G>T_Gln57His_missense
+36	26981	A	G	synonymous	M	459A>G	Gly153Gly	5741	0.1308	459	M_459A>G_Gly153Gly_synonymous
+39	28821	C	A	missense	N	548C>A	Ser183Tyr	2577	0.9961	548	N_548C>A_Ser183Tyr_missense

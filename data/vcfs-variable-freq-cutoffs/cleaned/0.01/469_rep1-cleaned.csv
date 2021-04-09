@@ -1,0 +1,21 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	read_depth	FREQ	gene_POS	SNP
+0	241	C	T	intergenic	CHR_START-orf1ab	241C>T		3428	0.9828	241	CHR_START-orf1ab_241C>T__intergenic
+2	3037	C	T	synonymous	orf1ab	2772C>T	Phe924Phe	1788	0.9687	2772	orf1ab_2772C>T_Phe924Phe_synonymous
+4	11233	T	A	synonymous	orf1ab	10968T>A	Pro3656Pro	2118	0.0189	10968	orf1ab_10968T>A_Pro3656Pro_synonymous
+7	14408	C	T	missense	orf1ab	14144C>T	Pro4715Leu	3362	0.9759	14144	orf1ab_14144C>T_Pro4715Leu_missense
+8	14793	C	T	synonymous	orf1ab	14529C>T	Ser4843Ser	2373	0.0236	14529	orf1ab_14529C>T_Ser4843Ser_synonymous
+9	15122	C	T	missense	orf1ab	14858C>T	Ser4953Phe	1610	0.0143	14858	orf1ab_14858C>T_Ser4953Phe_missense
+10	15133	A	C	missense	orf1ab	14869A>C	Thr4957Pro	1610	0.0137	14869	orf1ab_14869A>C_Thr4957Pro_missense
+11	15150	G	T	missense	orf1ab	14886G>T	Gln4962His	1610	0.0261	14886	orf1ab_14886G>T_Gln4962His_missense
+12	15167	T	G	missense	orf1ab	14903T>G	Leu4968Trp	1610	0.0211	14903	orf1ab_14903T>G_Leu4968Trp_missense
+13	15168	G	A	synonymous	orf1ab	14904G>A	Leu4968Leu	1610	0.0441	14904	orf1ab_14904G>A_Leu4968Leu_synonymous
+14	15354	T	C	synonymous	orf1ab	15090T>C	Leu5030Leu	2500	0.9756	15090	orf1ab_15090T>C_Leu5030Leu_synonymous
+17	18877	C	T	synonymous	orf1ab	18613C>T	Leu6205Leu	1701	0.9624	18613	orf1ab_18613C>T_Leu6205Leu_synonymous
+19	20102	G	T	missense	orf1ab	19838G>T	Ser6613Ile	730	0.0151	19838	orf1ab_19838G>T_Ser6613Ile_missense
+20	20113	G	T	missense	orf1ab	19849G>T	Val6617Phe	730	0.0123	19849	orf1ab_19849G>T_Val6617Phe_missense
+21	21137	A	G	missense	orf1ab	20873A>G	Lys6958Arg	2758	0.9714	20873	orf1ab_20873A>G_Lys6958Arg_missense
+22	21234	C	T	synonymous	orf1ab	20970C>T	Ala6990Ala	501	0.012	20970	orf1ab_20970C>T_Ala6990Ala_synonymous
+23	23403	A	G	missense	S	1841A>G	As14Gly	2223	0.9703	1841	S_1841A>G_As14Gly_missense
+24	25563	G	T	missense	ORF3a	171G>T	Gln57His	1961	0.9663	171	ORF3a_171G>T_Gln57His_missense
+30	28914	G	A	missense	N	641G>A	Gly214Asp	343	0.0146	641	N_641G>A_Gly214Asp_missense
+31	29721	C	T	intergenic	ORF10-CHR_END	29721C>T		546	0.0128	29721	ORF10-CHR_END_29721C>T__intergenic

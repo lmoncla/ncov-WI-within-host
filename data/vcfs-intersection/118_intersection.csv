@@ -1,0 +1,6 @@
+	SNP	POS_x	rep1_percent	rep2_percent	%
+0	orf1ab_2772C>T_Phe924Phe_synonymous	3037	0.9994	0.9997	1.0
+1	orf1ab_11718A>G_Glu3906Glu_synonymous	11983	0.0692	0.0743	0.07175000000000001
+2	orf1ab_14144C>T_Pro4715Leu_missense	14408	0.9993	0.9993	1.0
+3	orf1ab_18613C>T_Leu6205Leu_synonymous	18877	0.9991	0.9994	1.0
+4	ORF3a_171G>T_Gln57His_missense	25563	0.9995	0.9997	1.0

@@ -1,0 +1,22 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	read_depth	FREQ	gene_POS	SNP
+0	906	C	T	missense	orf1ab	641C>T	Thr214Ile	5025	0.0109	641	orf1ab_641C>T_Thr214Ile_missense
+1	1820	G	A	missense	orf1ab	1555G>A	Gly519Ser	4007	0.0117	1555	orf1ab_1555G>A_Gly519Ser_missense
+2	3638	G	A	missense	orf1ab	3373G>A	Gly1125Ser	1578	0.0146	3373	orf1ab_3373G>A_Gly1125Ser_missense
+4	6011	C	T	missense	orf1ab	5746C>T	Pro1916Ser	1469	0.0123	5746	orf1ab_5746C>T_Pro1916Ser_missense
+5	6696	C	T	missense	orf1ab	6431C>T	Pro2144Leu	1861	0.0102	6431	orf1ab_6431C>T_Pro2144Leu_missense
+7	6706	C	T	synonymous	orf1ab	6441C>T	Asn2147Asn	1861	0.0301	6441	orf1ab_6441C>T_Asn2147Asn_synonymous
+11	15118	G	T	missense	orf1ab	14854G>T	Val4952Phe	1527	0.0157	14854	orf1ab_14854G>T_Val4952Phe_missense
+12	15133	A	C	missense	orf1ab	14869A>C	Thr4957Pro	1527	0.0131	14869	orf1ab_14869A>C_Thr4957Pro_missense
+13	15137	T	G	missense	orf1ab	14873T>G	Met4958Arg	1527	0.0124	14873	orf1ab_14873T>G_Met4958Arg_missense
+14	15139	A	C	missense	orf1ab	14875A>C	Thr4959Pro	1527	0.0229	14875	orf1ab_14875A>C_Thr4959Pro_missense
+15	15141	C	A	synonymous	orf1ab	14877C>A	Thr4959Thr	1527	0.019	14877	orf1ab_14877C>A_Thr4959Thr_synonymous
+16	15150	G	T	missense	orf1ab	14886G>T	Gln4962His	1527	0.0295	14886	orf1ab_14886G>T_Gln4962His_missense
+17	15168	G	A	synonymous	orf1ab	14904G>A	Leu4968Leu	1527	0.0347	14904	orf1ab_14904G>A_Leu4968Leu_synonymous
+18	15963	C	T	synonymous	orf1ab	15699C>T	Gly5233Gly	3580	0.0184	15699	orf1ab_15699C>T_Gly5233Gly_synonymous
+22	20104	C	T	missense	orf1ab	19840C>T	Leu6614Phe	1296	0.0123	19840	orf1ab_19840C>T_Leu6614Phe_missense
+23	20124	T	G	missense	orf1ab	19860T>G	Ile6620Met	1295	0.01	19860	orf1ab_19860T>G_Ile6620Met_missense
+24	21143	C	A	missense	orf1ab	20879C>A	Ala6960Asp	1076	0.0167	20879	orf1ab_20879C>A_Ala6960Asp_missense
+25	21171	A	T	synonymous	orf1ab	20907A>T	Ile6969Ile	1153	0.0668	20907	orf1ab_20907A>T_Ile6969Ile_synonymous
+26	21647	A	T	missense	S	85A>T	Thr29Ser	1239	0.0105	85	S_85A>T_Thr29Ser_missense
+29	27784	A	T	intergenic	ORF7a-ORF8	27784A>T		2443	0.0184	27784	ORF7a-ORF8_27784A>T__intergenic
+32	29711	G	T	intergenic	ORF10-CHR_END	29711G>T		1131	1.0	29711	ORF10-CHR_END_29711G>T__intergenic

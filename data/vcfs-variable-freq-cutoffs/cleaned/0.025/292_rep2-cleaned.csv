@@ -1,0 +1,16 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	read_depth	FREQ	gene_POS	SNP
+4	6840	C	T	missense	orf1ab	6575C>T	Ala2192Val	7034	0.3257	6575	orf1ab_6575C>T_Ala2192Val_missense
+8	12669	C	T	missense	orf1ab	12404C>T	Ser4135Phe	7793	0.2357	12404	orf1ab_12404C>T_Ser4135Phe_missense
+9	12855	C	T	missense	orf1ab	12590C>T	Pro4197Leu	5536	0.0789	12590	orf1ab_12590C>T_Pro4197Leu_missense
+14	15141	C	A	synonymous	orf1ab	14877C>A	Thr4959Thr	5087	0.0261	14877	orf1ab_14877C>A_Thr4959Thr_synonymous
+15	15150	G	T	missense	orf1ab	14886G>T	Gln4962His	5087	0.0374	14886	orf1ab_14886G>T_Gln4962His_missense
+23	20425	A	G	missense	orf1ab	20161A>G	Ile6721Val	2579	0.1574	20161	orf1ab_20161A>G_Ile6721Val_missense
+29	28238	T	A	synonymous	ORF8	345T>A	Arg115Arg	250	0.048	345	ORF8_345T>A_Arg115Arg_synonymous
+30	28239	G	T	missense	ORF8	346G>T	Val116Phe	250	0.048	346	ORF8_346G>T_Val116Phe_missense
+31	28240	T	C	missense	ORF8	347T>C	Val116Ala	250	0.048	347	ORF8_347T>C_Val116Ala_missense
+32	28242	G	C	missense	ORF8	349G>C	Val117Leu	250	0.048	349	ORF8_349G>C_Val117Leu_missense
+34	28245	T	G	missense	ORF8	352T>G	Leu118Val	250	0.048	352	ORF8_352T>G_Leu118Val_missense
+36	28251	T	G	missense	ORF8	358T>G	Phe120Val	262	0.0534	358	ORF8_358T>G_Phe120Val_missense
+37	28253	C	T	synonymous	ORF8	360C>T	Phe120Phe	262	0.0534	360	ORF8_360C>T_Phe120Phe_synonymous
+38	28254	A	C	missense	ORF8	361A>C	Ile121Leu	262	0.0534	361	ORF8_361A>C_Ile121Leu_missense
+40	29711	G	T	intergenic	ORF10-CHR_END	29711G>T		3881	0.9982	29711	ORF10-CHR_END_29711G>T__intergenic
