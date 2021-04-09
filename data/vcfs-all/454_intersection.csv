@@ -1,0 +1,4 @@
+	SNP	POS_x	rep1_percent	rep2_percent	%
+0	orf1ab_729A>G_Glu243Glu_synonymous	994	0.9879	0.9912	1.0
+1	orf1ab_14904G>A_Leu4968Leu_synonymous	15168	0.0826	0.0866	0.08460000000000001
+2	ORF10-CHR_END_29711G>T__intergenic	29711	0.9948	0.9829	1.0

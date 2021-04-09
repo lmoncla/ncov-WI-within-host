@@ -1,0 +1,6 @@
+[1] "Bottleneck size"
+[1] 204
+[1] "confidence interval left bound"
+[1] 77
+[1] "confidence interval right bound"
+[1] 467

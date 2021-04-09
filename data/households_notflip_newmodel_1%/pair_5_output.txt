@@ -1,0 +1,7 @@
+[1] "Peak bottleneck value for MLE is at Nb_max (or largest possible value given Nb_increment)!  Try raising Nb_max for better bottleneck estimate"
+[1] "Bottleneck size"
+[1] 1000
+[1] "confidence interval left bound"
+[1] 140
+[1] "confidence interval right bound"
+[1] 1000

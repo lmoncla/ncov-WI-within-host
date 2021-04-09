@@ -1,0 +1,4 @@
+	SNP	FREQ_index	FREQ_contact	total_reads_contact	variant_reads_contact
+0	orf1ab_8782:C>T_Ser2839Ser_synonymous	0.92665	0.99065	3843.0	3810.0
+1	orf1ab_17877:T>C_Thr5871Thr_synonymous	0.9191	0.98745	3847.5	3799.5
+2	orf1ab_20316:C>T_Phe6684Phe_synonymous	0.9245	0.96965	1549.5	1502.5

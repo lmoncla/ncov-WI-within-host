@@ -1,0 +1,5 @@
+	SNP	FREQ_index	FREQ_contact	total_reads_contact	variant_reads_contact
+0	orf1ab_635:C>T_Arg124Cys_missense	0.0304	0.0	2811.0	0.0
+1	orf1ab_1380:C>T_Ala372Val_missense	0.9481	0.8876	1044.5	926.0
+2	ORF7a_27505:G>C_Gly38Arg_missense	0.04925	0.0	5370.5	0.0
+3	ORF8_28253:C>T_Phe120Phe_synonymous	0.036500000000000005	0.0	5115.5	0.0

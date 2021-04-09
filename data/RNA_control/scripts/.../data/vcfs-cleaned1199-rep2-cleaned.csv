@@ -1,0 +1,25 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	FREQ	gene_POS	SNP
+0	1	A	C	intergenic	CHR_START-orf1ab	1A>C		0.1389	1	CHR_START-orf1ab_1A>C__intergenic
+1	1	A	G	intergenic	CHR_START-orf1ab	1A>G		0.0556	1	CHR_START-orf1ab_1A>G__intergenic
+2	2	T	C	intergenic	CHR_START-orf1ab	2T>C		0.75	2	CHR_START-orf1ab_2T>C__intergenic
+3	2	TTAAAGGTTTATACCTTCCCAGGTAAC	T	intergenic	CHR_START-orf1ab	3_28delTAAAGGTTTATACCTTCCCAGGTAAC		0.058	3_28	CHR_START-orf1ab_3_28delTAAAGGTTTATACCTTCCCAGGTAAC__intergenic
+5	5	A	C	intergenic	CHR_START-orf1ab	5A>C		0.0556	5	CHR_START-orf1ab_5A>C__intergenic
+6	6	A	G	intergenic	CHR_START-orf1ab	6A>G		0.0833	6	CHR_START-orf1ab_6A>G__intergenic
+8	8	G	T	intergenic	CHR_START-orf1ab	8G>T		0.0833	8	CHR_START-orf1ab_8G>T__intergenic
+9	15	C	G	intergenic	CHR_START-orf1ab	15C>G		0.0444	15	CHR_START-orf1ab_15C>G__intergenic
+11	16	C	A	intergenic	CHR_START-orf1ab	16C>A		0.0426	16	CHR_START-orf1ab_16C>A__intergenic
+12	17	T	C	intergenic	CHR_START-orf1ab	17T>C		0.0625	17	CHR_START-orf1ab_17T>C__intergenic
+13	17	T	G	intergenic	CHR_START-orf1ab	17T>G		0.0417	17	CHR_START-orf1ab_17T>G__intergenic
+14	18	T	G	intergenic	CHR_START-orf1ab	18T>G		0.0612	18	CHR_START-orf1ab_18T>G__intergenic
+17	22	A	T	intergenic	CHR_START-orf1ab	22A>T		0.1205	22	CHR_START-orf1ab_22A>T__intergenic
+18	24	G	A	intergenic	CHR_START-orf1ab	24G>A		0.064	24	CHR_START-orf1ab_24G>A__intergenic
+21	172	T	C	intergenic	CHR_START-orf1ab	172T>C		0.0326	172	CHR_START-orf1ab_172T>C__intergenic
+31	241	C	T	intergenic	CHR_START-orf1ab	241C>T		0.733	241	CHR_START-orf1ab_241C>T__intergenic
+72	3037	C	T	synonymous	orf1ab	2772C>T	Phe924Phe	0.7723	2772	orf1ab_2772C>T_Phe924Phe_synonymous
+151	14408	C	T	missense	orf1ab	14144C>T	Pro4715Leu	0.8169	14144	orf1ab_14144C>T_Pro4715Leu_missense
+167	15102	T	C	synonymous	orf1ab	14838T>C	Ala4946Ala	0.0761	14838	orf1ab_14838T>C_Ala4946Ala_synonymous
+169	15105	C	A	synonymous	orf1ab	14841C>A	Arg4947Arg	0.0336	14841	orf1ab_14841C>A_Arg4947Arg_synonymous
+192	16266	A	C	synonymous	orf1ab	16002A>C	Ser5334Ser	0.0335	16002	orf1ab_16002A>C_Ser5334Ser_synonymous
+280	24253	A	T	synonymous	S	2691A>T	Pro897Pro	0.7669	2691	S_2691A>T_Pro897Pro_synonymous
+335	28821	C	A	missense	N	548C>A	Ser183Tyr	0.8855	548	N_548C>A_Ser183Tyr_missense
+385	29627	C	T	missense	ORF10	70C>T	Arg24Cys	0.9459	70	ORF10_70C>T_Arg24Cys_missense

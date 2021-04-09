@@ -1,0 +1,5 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	FREQ	gene_POS	SNP
+11	994	A	G	synonymous	orf1ab	729A>G	Glu243Glu	0.9901	729	orf1ab_729A>G_Glu243Glu_synonymous
+80	6696	C	CT	frameshift	orf1ab	6435dupT	Leu2146fs	0.0358	6435	orf1ab_6435dupT_Leu2146fs_frameshift
+221	15168	G	A	synonymous	orf1ab	14904G>A	Leu4968Leu	0.0834	14904	orf1ab_14904G>A_Leu4968Leu_synonymous
+490	29711	G	T	intergenic	ORF10-CHR_END	29711G>T		1.0	29711	ORF10-CHR_END_29711G>T__intergenic

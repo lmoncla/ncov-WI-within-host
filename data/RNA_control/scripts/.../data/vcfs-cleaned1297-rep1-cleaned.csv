@@ -1,0 +1,15 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	FREQ	gene_POS	SNP
+3	16	C	T	intergenic	CHR_START-orf1ab	16C>T		0.0455	16	CHR_START-orf1ab_16C>T__intergenic
+4	18	T	A	intergenic	CHR_START-orf1ab	18T>A		0.0444	18	CHR_START-orf1ab_18T>A__intergenic
+5	21	C	T	intergenic	CHR_START-orf1ab	21C>T		0.08	21	CHR_START-orf1ab_21C>T__intergenic
+6	23	G	C	intergenic	CHR_START-orf1ab	23G>C		0.0411	23	CHR_START-orf1ab_23G>C__intergenic
+16	241	C	T	intergenic	CHR_START-orf1ab	241C>T		0.7546	241	CHR_START-orf1ab_241C>T__intergenic
+45	3037	C	T	synonymous	orf1ab	2772C>T	Phe924Phe	0.7254	2772	orf1ab_2772C>T_Phe924Phe_synonymous
+61	6696	C	CT	frameshift	orf1ab	6435dupT	Leu2146fs	0.0303	6435	orf1ab_6435dupT_Leu2146fs_frameshift
+124	14408	C	T	missense	orf1ab	14144C>T	Pro4715Leu	0.8167	14144	orf1ab_14144C>T_Pro4715Leu_missense
+260	24253	A	T	synonymous	S	2691A>T	Pro897Pro	0.664	2691	S_2691A>T_Pro897Pro_synonymous
+262	25006	C	T	synonymous	S	3444C>T	Phe1148Phe	0.7992	3444	S_3444C>T_Phe1148Phe_synonymous
+299	28564	T	G	synonymous	N	291T>G	Gly97Gly	0.0393	291	N_291T>G_Gly97Gly_synonymous
+320	28821	C	A	missense	N	548C>A	Ser183Tyr	0.9778	548	N_548C>A_Ser183Tyr_missense
+327	29448	T	A	missense	N	1175T>A	Val392Glu	0.0316	1175	N_1175T>A_Val392Glu_missense
+333	29627	C	T	missense	ORF10	70C>T	Arg24Cys	0.9863	70	ORF10_70C>T_Arg24Cys_missense

@@ -1,0 +1,10 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	FREQ	gene_POS	SNP
+30	23817	T	G	missense	S	2255T>G	Leu752Arg	0.6711	2255	S_2255T>G_Leu752Arg_missense
+31	23818	T	A	synonymous	S	2256T>A	Leu752Leu	0.6711	2256	S_2256T>A_Leu752Leu_synonymous
+32	23820	T	A	stop	S	2258T>A	Leu753*	0.6711	2258	S_2258T>A_Leu753*_stop
+33	23821	G	T	missense	S	2259G>T	Leu753Phe	0.68	2259	S_2259G>T_Leu753Phe_missense
+34	23822	T	C	synonymous	S	2260T>C	Leu754Leu	0.68	2260	S_2260T>C_Leu754Leu_synonymous
+38	25137	A	AT	frameshift	S	3578dupT	Leu1193fs	0.0515	3578	S_3578dupT_Leu1193fs_frameshift
+39	25433	CT	C	frameshift	ORF3a	44delT	Leu15fs	0.4444	44	ORF3a_44delT_Leu15fs_frameshift
+41	28144	T	C	missense	ORF8	251T>C	Leu84Ser	0.9988	251	ORF8_251T>C_Leu84Ser_missense
+103	28853	T	A	missense	N	580T>A	Ser194Thr	0.0498	580	N_580T>A_Ser194Thr_missense

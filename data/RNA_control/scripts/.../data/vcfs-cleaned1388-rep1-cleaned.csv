@@ -1,0 +1,24 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	FREQ	gene_POS	SNP
+0	1	A	G	intergenic	CHR_START-orf1ab	1A>G		0.0769	1	CHR_START-orf1ab_1A>G__intergenic
+1	2	T	A	intergenic	CHR_START-orf1ab	2T>A		0.2	2	CHR_START-orf1ab_2T>A__intergenic
+2	3	T	C	intergenic	CHR_START-orf1ab	3T>C		0.8667	3	CHR_START-orf1ab_3T>C__intergenic
+3	4	A	G	intergenic	CHR_START-orf1ab	4A>G		0.0667	4	CHR_START-orf1ab_4A>G__intergenic
+4	5	A	C	intergenic	CHR_START-orf1ab	5A>C		0.0667	5	CHR_START-orf1ab_5A>C__intergenic
+5	8	G	T	intergenic	CHR_START-orf1ab	8G>T		0.0588	8	CHR_START-orf1ab_8G>T__intergenic
+6	9	T	A	intergenic	CHR_START-orf1ab	9T>A		0.1765	9	CHR_START-orf1ab_9T>A__intergenic
+7	10	T	G	intergenic	CHR_START-orf1ab	10T>G		0.8235	10	CHR_START-orf1ab_10T>G__intergenic
+8	13	T	G	intergenic	CHR_START-orf1ab	13T>G		0.4	13	CHR_START-orf1ab_13T>G__intergenic
+10	15	C	T	intergenic	CHR_START-orf1ab	15C>T		0.4211	15	CHR_START-orf1ab_15C>T__intergenic
+11	17	T	G	intergenic	CHR_START-orf1ab	17T>G		0.0513	17	CHR_START-orf1ab_17T>G__intergenic
+12	18	T	C	intergenic	CHR_START-orf1ab	18T>C		0.0455	18	CHR_START-orf1ab_18T>C__intergenic
+14	20	C	A	intergenic	CHR_START-orf1ab	20C>A		0.0426	20	CHR_START-orf1ab_20C>A__intergenic
+15	21	C	T	intergenic	CHR_START-orf1ab	21C>T		0.0638	21	CHR_START-orf1ab_21C>T__intergenic
+17	27	A	C	intergenic	CHR_START-orf1ab	27A>C		0.039	27	CHR_START-orf1ab_27A>C__intergenic
+20	241	C	T	intergenic	CHR_START-orf1ab	241C>T		0.8315	241	CHR_START-orf1ab_241C>T__intergenic
+21	2035	G	T	missense	orf1ab	1770G>T	Leu590Phe	0.7712	1770	orf1ab_1770G>T_Leu590Phe_missense
+22	3037	C	T	synonymous	orf1ab	2772C>T	Phe924Phe	0.784	2772	orf1ab_2772C>T_Phe924Phe_synonymous
+23	12025	C	T	synonymous	orf1ab	11760C>T	Ser3920Ser	0.8501	11760	orf1ab_11760C>T_Ser3920Ser_synonymous
+24	14408	C	T	missense	orf1ab	14144C>T	Pro4715Leu	0.8369	14144	orf1ab_14144C>T_Pro4715Leu_missense
+25	28881	G	A	missense	N	608G>A	Arg203Lys	0.9926	608	N_608G>A_Arg203Lys_missense
+26	28882	G	A	synonymous	N	609G>A	Arg203Arg	0.992	609	N_609G>A_Arg203Arg_synonymous
+27	28883	G	C	missense	N	610G>C	Gly204Arg	0.9926	610	N_610G>C_Gly204Arg_missense

@@ -1,0 +1,28 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	FREQ	gene_POS	SNP
+0	196	ACGGTTTCGTCCGT	A	intergenic	CHR_START-orf1ab	197_209delCGGTTTCGTCCGT		0.1602	197_209	CHR_START-orf1ab_197_209delCGGTTTCGTCCGT__intergenic
+1	241	C	T	intergenic	CHR_START-orf1ab	241C>T		0.1641	241	CHR_START-orf1ab_241C>T__intergenic
+2	3037	C	T	synonymous	orf1ab	2772C>T	Phe924Phe	0.3467	2772	orf1ab_2772C>T_Phe924Phe_synonymous
+3	6500	C	T	missense	orf1ab	6235C>T	Pro2079Ser	0.9074	6235	orf1ab_6235C>T_Pro2079Ser_missense
+4	6696	C	CT	frameshift	orf1ab	6435dupT	Leu2146fs	0.0506	6435	orf1ab_6435dupT_Leu2146fs_frameshift
+5	7518	C	T	missense	orf1ab	7253C>T	Ala2418Val	0.0366	7253	orf1ab_7253C>T_Ala2418Val_missense
+7	14408	C	T	missense	orf1ab	14144C>T	Pro4715Leu	0.8731	14144	orf1ab_14144C>T_Pro4715Leu_missense
+8	15025	G	A	missense	orf1ab	14761G>A	Ala4921Thr	0.0323	14761	orf1ab_14761G>A_Ala4921Thr_missense
+10	22727	G	T	missense	S	1165G>T	As89Tyr	0.032	1165	S_1165G>T_As89Tyr_missense
+13	28854	C	T	missense	N	581C>T	Ser194Leu	0.9653	581	N_581C>T_Ser194Leu_missense
+25	29380	A	G	synonymous	N	1107A>G	Lys369Lys	0.046	1107	N_1107A>G_Lys369Lys_synonymous
+26	29382	A	T	missense	N	1109A>T	Lys370Met	0.0345	1109	N_1109A>T_Lys370Met_missense
+27	29383	G	C	missense	N	1110G>C	Lys370Asn	0.0349	1110	N_1110G>C_Lys370Asn_missense
+28	29385	A	G	missense	N	1112A>G	As71Gly	0.0465	1112	N_1112A>G_As71Gly_missense
+29	29386	C	A	missense	N	1113C>A	As71Glu	0.0349	1113	N_1113C>A_As71Glu_missense
+31	29390	A	G	missense	N	1117A>G	Lys373Glu	0.0349	1117	N_1117A>G_Lys373Glu_missense
+32	29391	A	C	missense	N	1118A>C	Lys373Thr	0.0349	1118	N_1118A>C_Lys373Thr_missense
+35	29396	A	T	stop	N	1123A>T	Lys375*	0.0349	1123	N_1123A>T_Lys375*_stop
+36	29397	A	G	missense	N	1124A>G	Lys375Arg	0.0465	1124	N_1124A>G_Lys375Arg_missense
+38	29399	G	A	missense	N	1126G>A	Ala376Thr	0.0465	1126	N_1126G>A_Ala376Thr_missense
+39	29400	C	G	missense	N	1127C>G	Ala376Gly	0.0349	1127	N_1127C>G_Ala376Gly_missense
+40	29401	T	G	synonymous	N	1128T>G	Ala376Ala	0.0465	1128	N_1128T>G_Ala376Ala_synonymous
+41	29404	T	A	missense	N	1131T>A	As77Glu	0.0349	1131	N_1131T>A_As77Glu_missense
+43	29406	A	G	missense	N	1133A>G	Glu378Gly	0.0349	1133	N_1133A>G_Glu378Gly_missense
+45	29408	A	G	missense	N	1135A>G	Thr379Ala	0.0349	1135	N_1135A>G_Thr379Ala_missense
+49	29410	T	G	synonymous	N	1137T>G	Thr379Thr	0.0349	1137	N_1137T>G_Thr379Thr_synonymous
+51	29411	C	T	stop	N	1138C>T	Gln380*	0.0349	1138	N_1138C>T_Gln380*_stop

@@ -1,0 +1,40 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	FREQ	gene_POS	SNP
+0	1	A	T	intergenic	CHR_START-orf1ab	1A>T		0.6667	1	CHR_START-orf1ab_1A>T__intergenic
+1	2	T	C	intergenic	CHR_START-orf1ab	2T>C		0.6667	2	CHR_START-orf1ab_2T>C__intergenic
+2	3	T	A	intergenic	CHR_START-orf1ab	3T>A		0.0833	3	CHR_START-orf1ab_3T>A__intergenic
+3	4	A	G	intergenic	CHR_START-orf1ab	4A>G		0.1667	4	CHR_START-orf1ab_4A>G__intergenic
+4	4	A	T	intergenic	CHR_START-orf1ab	4A>T		0.0833	4	CHR_START-orf1ab_4A>T__intergenic
+5	5	A	C	intergenic	CHR_START-orf1ab	5A>C		0.2308	5	CHR_START-orf1ab_5A>C__intergenic
+6	5	A	G	intergenic	CHR_START-orf1ab	5A>G		0.2308	5	CHR_START-orf1ab_5A>G__intergenic
+7	6	A	T	intergenic	CHR_START-orf1ab	6A>T		0.2308	6	CHR_START-orf1ab_6A>T__intergenic
+8	7	G	C	intergenic	CHR_START-orf1ab	7G>C		0.6429	7	CHR_START-orf1ab_7G>C__intergenic
+9	10	T	A	intergenic	CHR_START-orf1ab	10T>A		0.2143	10	CHR_START-orf1ab_10T>A__intergenic
+10	10	T	G	intergenic	CHR_START-orf1ab	10T>G		0.5714	10	CHR_START-orf1ab_10T>G__intergenic
+11	12	A	C	intergenic	CHR_START-orf1ab	12A>C		0.3478	12	CHR_START-orf1ab_12A>C__intergenic
+12	13	T	G	intergenic	CHR_START-orf1ab	13T>G		0.3478	13	CHR_START-orf1ab_13T>G__intergenic
+13	14	A	C	intergenic	CHR_START-orf1ab	14A>C		0.3043	14	CHR_START-orf1ab_14A>C__intergenic
+14	15	C	G	intergenic	CHR_START-orf1ab	15C>G		0.0435	15	CHR_START-orf1ab_15C>G__intergenic
+15	15	C	T	intergenic	CHR_START-orf1ab	15C>T		0.3043	15	CHR_START-orf1ab_15C>T__intergenic
+16	15	C	CGCT	intergenic	CHR_START-orf1ab	15_16isGCT		0.0435	15_16	CHR_START-orf1ab_15_16isGCT__intergenic
+17	16	C	G	intergenic	CHR_START-orf1ab	16C>G		0.0435	16	CHR_START-orf1ab_16C>G__intergenic
+18	17	T	C	intergenic	CHR_START-orf1ab	17T>C		0.0435	17	CHR_START-orf1ab_17T>C__intergenic
+19	18	T	A	intergenic	CHR_START-orf1ab	18T>A		0.0435	18	CHR_START-orf1ab_18T>A__intergenic
+20	19	C	T	intergenic	CHR_START-orf1ab	19C>T		0.0435	19	CHR_START-orf1ab_19C>T__intergenic
+21	20	C	G	intergenic	CHR_START-orf1ab	20C>G		0.0435	20	CHR_START-orf1ab_20C>G__intergenic
+22	21	C	G	intergenic	CHR_START-orf1ab	21C>G		0.3913	21	CHR_START-orf1ab_21C>G__intergenic
+23	23	G	T	intergenic	CHR_START-orf1ab	23G>T		0.3333	23	CHR_START-orf1ab_23G>T__intergenic
+24	25	TAACAA	T	intergenic	CHR_START-orf1ab	26_30delAACAA		0.08	26_30	CHR_START-orf1ab_26_30delAACAA__intergenic
+26	196	ACGGTTTCGTCCGT	A	intergenic	CHR_START-orf1ab	197_209delCGGTTTCGTCCGT		0.1261	197_209	CHR_START-orf1ab_197_209delCGGTTTCGTCCGT__intergenic
+27	241	C	T	intergenic	CHR_START-orf1ab	241C>T		0.1296	241	CHR_START-orf1ab_241C>T__intergenic
+28	3037	C	T	synonymous	orf1ab	2772C>T	Phe924Phe	0.4676	2772	orf1ab_2772C>T_Phe924Phe_synonymous
+29	6500	C	T	missense	orf1ab	6235C>T	Pro2079Ser	0.9419	6235	orf1ab_6235C>T_Pro2079Ser_missense
+30	6696	C	CT	frameshift	orf1ab	6435dupT	Leu2146fs	0.0694	6435	orf1ab_6435dupT_Leu2146fs_frameshift
+34	8453	C	G	missense	orf1ab	8188C>G	Arg2730Gly	0.0326	8188	orf1ab_8188C>G_Arg2730Gly_missense
+35	8454	G	A	missense	orf1ab	8189G>A	Arg2730His	0.0331	8189	orf1ab_8189G>A_Arg2730His_missense
+37	8457	G	T	missense	orf1ab	8192G>T	Ser2731Ile	0.035	8192	orf1ab_8192G>T_Ser2731Ile_missense
+43	14408	C	T	missense	orf1ab	14144C>T	Pro4715Leu	0.8774	14144	orf1ab_14144C>T_Pro4715Leu_missense
+44	15965	G	GT	frameshift	orf1ab	15705dupT	Val5236fs	0.0485	15705	orf1ab_15705dupT_Val5236fs_frameshift
+48	28854	C	T	missense	N	581C>T	Ser194Leu	0.9615	581	N_581C>T_Ser194Leu_missense
+73	29695	A	G	intergenic	ORF10-CHR_END	29695A>G		0.0333	29695	ORF10-CHR_END_29695A>G__intergenic
+74	29696	C	A	intergenic	ORF10-CHR_END	29696C>A		0.0333	29696	ORF10-CHR_END_29696C>A__intergenic
+86	29707	A	T	intergenic	ORF10-CHR_END	29707A>T		0.0333	29707	ORF10-CHR_END_29707A>T__intergenic

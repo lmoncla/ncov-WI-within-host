@@ -1,0 +1,14 @@
+	SNP	FREQ_index	FREQ_contact	total_reads_contact	variant_reads_contact
+0	orf1ab_3037:C>T_Phe924Phe_synonymous	0.9893	0.99215	3335.0	3308.5
+1	orf1ab_12396:C>T_Ala4044Val_missense	0.01645	0.0	3629.5	0.0
+2	orf1ab_14191:T>C_Leu4643Leu_synonymous	0.98785	0.9919	5132.5	5090.0
+3	orf1ab_14408:C>T_Pro4715Leu_missense	0.9894	0.99335	5380.0	5343.0
+4	orf1ab_15139:A>C_Thr4959Pro_missense	0.0185	0.0162	2023.0	31.5
+5	orf1ab_15150:G>T_Gln4962His_missense	0.0269	0.02915	2023.0	55.0
+6	orf1ab_15168:G>A_Leu4968Leu_synonymous	0.03755	0.043800000000000006	2023.0	82.0
+7	orf1ab_16260:C>T_Cys5332Cys_synonymous	0.98685	0.99225	3807.0	3775.5
+8	orf1ab_20115:C>A_Val6617Val_synonymous	0.01085	0.0	1029.5	0.0
+9	S_23403:A>G_As14Gly_missense	0.98965	0.9931	4544.5	4512.5
+10	S_24253:A>T_Pro897Pro_synonymous	0.98415	0.98815	2993.0	2956.5
+11	ORF3a_25563:G>T_Gln57His_missense	0.9867	0.9921	4267.5	4232.5
+12	N_28821:C>A_Ser183Tyr_missense	0.9749	0.9840000000000001	1446.5	1428.0

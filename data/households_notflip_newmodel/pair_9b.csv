@@ -1,0 +1,5 @@
+	SNP	FREQ_index	FREQ_contact	total_reads_contact	variant_reads_contact
+0	CHR_START-orf1ab_241:C>T__intergenic-region	0.96975	0.99665	3736.5	3724.5
+1	orf1ab_3037:C>T_Phe924Phe_synonymous	0.9652	0.9848	2415.5	2378.0
+2	orf1ab_3871:G>T_Lys1202Asn_missense	0.96825	0.97705	1920.0	1876.5
+3	orf1ab_3931:T>C_Val1222Val_synonymous	0.96805	0.9779	1922.5	1880.5

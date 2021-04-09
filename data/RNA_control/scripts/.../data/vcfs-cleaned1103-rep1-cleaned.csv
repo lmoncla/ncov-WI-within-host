@@ -1,0 +1,24 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	FREQ	gene_POS	SNP
+1	14	A	T	intergenic	CHR_START-orf1ab	14A>T		0.08	14	CHR_START-orf1ab_14A>T__intergenic
+2	15	C	A	intergenic	CHR_START-orf1ab	15C>A		0.06	15	CHR_START-orf1ab_15C>A__intergenic
+3	16	C	A	intergenic	CHR_START-orf1ab	16C>A		0.06	16	CHR_START-orf1ab_16C>A__intergenic
+4	19	C	G	intergenic	CHR_START-orf1ab	19C>G		0.0577	19	CHR_START-orf1ab_19C>G__intergenic
+5	196	ACGGTTTCGTCCGT	A	intergenic	CHR_START-orf1ab	197_209delCGGTTTCGTCCGT		0.1753	197_209	CHR_START-orf1ab_197_209delCGGTTTCGTCCGT__intergenic
+6	241	C	T	intergenic	CHR_START-orf1ab	241C>T		0.1843	241	CHR_START-orf1ab_241C>T__intergenic
+8	3037	C	T	synonymous	orf1ab	2772C>T	Phe924Phe	0.4979	2772	orf1ab_2772C>T_Phe924Phe_synonymous
+9	6500	C	T	missense	orf1ab	6235C>T	Pro2079Ser	0.9549	6235	orf1ab_6235C>T_Pro2079Ser_missense
+11	6696	C	CT	frameshift	orf1ab	6435dupT	Leu2146fs	0.0647	6435	orf1ab_6435dupT_Leu2146fs_frameshift
+13	8452	A	G	missense	orf1ab	8187A>G	Ile2729Met	0.0346	8187	orf1ab_8187A>G_Ile2729Met_missense
+14	8453	C	G	missense	orf1ab	8188C>G	Arg2730Gly	0.0356	8188	orf1ab_8188C>G_Arg2730Gly_missense
+15	8454	G	A	missense	orf1ab	8189G>A	Arg2730His	0.0343	8189	orf1ab_8189G>A_Arg2730His_missense
+16	8455	T	C	synonymous	orf1ab	8190T>C	Arg2730Arg	0.0386	8190	orf1ab_8190T>C_Arg2730Arg_synonymous
+17	8457	G	T	missense	orf1ab	8192G>T	Ser2731Ile	0.0386	8192	orf1ab_8192G>T_Ser2731Ile_missense
+24	14408	C	T	missense	orf1ab	14144C>T	Pro4715Leu	0.8917	14144	orf1ab_14144C>T_Pro4715Leu_missense
+25	15965	G	GT	frameshift	orf1ab	15705dupT	Val5236fs	0.0533	15705	orf1ab_15705dupT_Val5236fs_frameshift
+40	28854	C	T	missense	N	581C>T	Ser194Leu	0.9832	581	N_581C>T_Ser194Leu_missense
+43	28930	T	C	synonymous	N	657T>C	Leu219Leu	0.0319	657	N_657T>C_Leu219Leu_synonymous
+44	28931	G	A	missense	N	658G>A	Ala220Thr	0.0319	658	N_658G>A_Ala220Thr_missense
+49	29471	T	G	missense	N	1198T>G	Leu400Val	0.0354	1198	N_1198T>G_Leu400Val_missense
+62	29535	C	A	intergenic	N-ORF10	29535C>A		0.043	29535	N-ORF10_29535C>A__intergenic
+63	29540	G	T	intergenic	N-ORF10	29540G>T		0.044	29540	N-ORF10_29540G>T__intergenic
+94	29734	G	C	intergenic	ORF10-CHR_END	29734G>C		0.0423	29734	ORF10-CHR_END_29734G>C__intergenic
