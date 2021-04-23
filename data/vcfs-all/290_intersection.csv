@@ -1,0 +1,4 @@
+	SNP	POS_x	rep1_percent	rep2_percent	%
+2	orf1ab_16111C>T_Pro5371Ser_missense	16375	0.3524	0.3516	0.352
+3	ORF7a_25C>T_Leu9Leu_synonymous	27418	0.0633	0.062	0.06265
+4	ORF10-CHR_END_29711G>T__intergenic	29711	0.986	0.9897	1.0

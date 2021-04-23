@@ -1,0 +1,8 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	FREQ	gene_POS	SNP
+32	25500	G	A	synonymous	ORF3a	108G>A	Pro36Pro	0.2037	108	ORF3a_108G>A_Pro36Pro_synonymous
+33	28066	T	C	missense	ORF8	173T>C	Ile58Thr	0.303	173	ORF8_173T>C_Ile58Thr_missense
+35	28144	T	C	missense	ORF8	251T>C	Leu84Ser	0.9985	251	ORF8_251T>C_Leu84Ser_missense
+103	28853	T	A	missense	N	580T>A	Ser194Thr	0.05	580	N_580T>A_Ser194Thr_missense
+143	29353	C	T	synonymous	N	1080C>T	Tyr360Tyr	0.0884	1080	N_1080C>T_Tyr360Tyr_synonymous
+144	29354	A	T	stop	N	1081A>T	Lys361*	0.1154	1081	N_1081A>T_Lys361*_stop
+145	29355	A	C	missense	N	1082A>C	Lys361Thr	0.1375	1082	N_1082A>C_Lys361Thr_missense

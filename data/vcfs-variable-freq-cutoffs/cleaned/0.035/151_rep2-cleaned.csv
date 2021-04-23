@@ -1,0 +1,22 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	read_depth	FREQ	gene_POS	SNP
+15	2980	C	T	synonymous	orf1ab	2715C>T	Tyr905Tyr	1747	0.0378	2715	orf1ab_2715C>T_Tyr905Tyr_synonymous
+19	4218	G	C	missense	orf1ab	3953G>C	Arg1318Thr	3351	0.0388	3953	orf1ab_3953G>C_Arg1318Thr_missense
+26	5399	G	T	missense	orf1ab	5134G>T	Ala1712Ser	2416	0.0484	5134	orf1ab_5134G>T_Ala1712Ser_missense
+52	8782	C	T	synonymous	orf1ab	8517C>T	Ser2839Ser	997	1.0	8517	orf1ab_8517C>T_Ser2839Ser_synonymous
+60	10507	C	T	synonymous	orf1ab	10242C>T	Asn3414Asn	3205	0.9994	10242	orf1ab_10242C>T_Asn3414Asn_synonymous
+63	11119	T	C	synonymous	orf1ab	10854T>C	Ile3618Ile	1956	0.0394	10854	orf1ab_10854T>C_Ile3618Ile_synonymous
+76	12683	C	T	stop	orf1ab	12418C>T	Gln4140*	3210	0.0377	12418	orf1ab_12418C>T_Gln4140*_stop
+87	15102	T	C	synonymous	orf1ab	14838T>C	Ala4946Ala	1992	0.0366	14838	orf1ab_14838T>C_Ala4946Ala_synonymous
+101	16381	G	A	missense	orf1ab	16117G>A	Val5373Ile	2769	0.9993	16117	orf1ab_16117G>A_Val5373Ile_missense
+113	17877	T	C	synonymous	orf1ab	17613T>C	Thr5871Thr	1462	0.9986	17613	orf1ab_17613T>C_Thr5871Thr_synonymous
+136	20316	C	T	synonymous	orf1ab	20052C>T	Phe6684Phe	1969	0.9599	20052	orf1ab_20052C>T_Phe6684Phe_synonymous
+157	23681	T	C	missense	S	2119T>C	Tyr707His	2875	0.0351	2119	S_2119T>C_Tyr707His_missense
+162	24351	C	T	missense	S	2789C>T	Ala930Val	2196	0.0414	2789	S_2789C>T_Ala930Val_missense
+163	24358	C	A	synonymous	S	2796C>A	Gly932Gly	2194	0.0351	2796	S_2796C>A_Gly932Gly_synonymous
+166	24863	C	T	missense	S	3301C>T	His1101Tyr	2141	0.0448	3301	S_3301C>T_His1101Tyr_missense
+171	25500	G	T	synonymous	ORF3a	108G>T	Pro36Pro	3053	0.9997	108	ORF3a_108G>T_Pro36Pro_synonymous
+179	26124	C	T	synonymous	ORF3a	732C>T	Val244Val	3333	0.9979	732	ORF3a_732C>T_Val244Val_synonymous
+188	28144	T	C	missense	ORF8	251T>C	Leu84Ser	6437	0.9986	251	ORF8_251T>C_Leu84Ser_missense
+191	28878	G	A	missense	N	605G>A	Ser202Asn	1688	0.9668	605	N_605G>A_Ser202Asn_missense
+192	28887	C	T	missense	N	614C>T	Thr205Ile	1688	0.0515	614	N_614C>T_Thr205Ile_missense
+195	29742	G	A	intergenic	ORF10-CHR_END	29742G>A		507	0.9961	29742	ORF10-CHR_END_29742G>A__intergenic

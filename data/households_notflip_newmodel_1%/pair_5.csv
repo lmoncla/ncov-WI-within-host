@@ -1,0 +1,3 @@
+	SNP	FREQ_index	FREQ_contact	total_reads_contact	variant_reads_contact
+0	orf1ab_15139:A>C_Thr4959Pro_missense	0.0128	0.0153	3061.0	45.5
+1	orf1ab_15141:C>A_Thr4959Thr_synonymous	0.01685	0.0211	3061.0	57.5

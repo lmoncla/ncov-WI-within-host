@@ -1,0 +1,7 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	FREQ	gene_POS	SNP
+68	6696	C	CT	frameshift	orf1ab	6435dupT	Leu2146fs	0.0521	6435	orf1ab_6435dupT_Leu2146fs_frameshift
+80	9510	C	T	missense	orf1ab	9245C>T	Thr3082Ile	0.5068	9245	orf1ab_9245C>T_Thr3082Ile_missense
+141	15141	C	A	synonymous	orf1ab	14877C>A	Thr4959Thr	0.0302	14877	orf1ab_14877C>A_Thr4959Thr_synonymous
+145	15150	G	T	missense	orf1ab	14886G>T	Gln4962His	0.0439	14886	orf1ab_14886G>T_Gln4962His_missense
+213	21952	C	T	synonymous	S	390C>T	Val130Val	0.2304	390	S_390C>T_Val130Val_synonymous
+303	29711	G	T	intergenic	ORF10-CHR_END	29711G>T		0.9987	29711	ORF10-CHR_END_29711G>T__intergenic

@@ -1,0 +1,19 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	read_depth	FREQ	gene_POS	SNP
+5	2474	A	C	missense	orf1ab	2209A>C	Lys737Gln	1971	0.0979	2209	orf1ab_2209A>C_Lys737Gln_missense
+6	4699	T	C	synonymous	orf1ab	4434T>C	Ser1478Ser	6556	0.0737	4434	orf1ab_4434T>C_Ser1478Ser_synonymous
+7	6034	A	G	synonymous	orf1ab	5769A>G	Ala1923Ala	1743	0.1044	5769	orf1ab_5769A>G_Ala1923Ala_synonymous
+9	7857	A	G	missense	orf1ab	7592A>G	Asn2531Ser	2084	0.1032	7592	orf1ab_7592A>G_Asn2531Ser_missense
+13	8460	C	G	missense	orf1ab	8195C>G	Ala2732Gly	1936	0.1136	8195	orf1ab_8195C>G_Ala2732Gly_missense
+19	13168	C	T	synonymous	orf1ab	12903C>T	His4301His	2649	0.185	12903	orf1ab_12903C>T_His4301His_synonymous
+27	15150	G	T	missense	orf1ab	14886G>T	Gln4962His	2081	0.0303	14886	orf1ab_14886G>T_Gln4962His_missense
+31	16381	G	A	missense	orf1ab	16117G>A	Val5373Ile	542	1.0	16117	orf1ab_16117G>A_Val5373Ile_missense
+33	17623	G	A	missense	orf1ab	17359G>A	Ala5787Thr	3288	0.1332	17359	orf1ab_17359G>A_Ala5787Thr_missense
+34	18768	T	C	synonymous	orf1ab	18504T>C	As168Asp	1170	0.1598	18504	orf1ab_18504T>C_As168Asp_synonymous
+36	19487	T	C	missense	orf1ab	19223T>C	Val6408Ala	565	0.0973	19223	orf1ab_19223T>C_Val6408Ala_missense
+37	20138	A	G	missense	orf1ab	19874A>G	Lys6625Arg	306	0.5294	19874	orf1ab_19874A>G_Lys6625Arg_missense
+40	25500	G	T	synonymous	ORF3a	108G>T	Pro36Pro	3266	0.9994	108	ORF3a_108G>T_Pro36Pro_synonymous
+41	26124	C	T	synonymous	ORF3a	732C>T	Val244Val	1446	0.9938	732	ORF3a_732C>T_Val244Val_synonymous
+42	26169	A	G	synonymous	ORF3a	777A>G	Val259Val	1443	0.1303	777	ORF3a_777A>G_Val259Val_synonymous
+43	26835	C	T	missense	M	313C>T	Arg105Cys	2819	0.1295	313	M_313C>T_Arg105Cys_missense
+46	27329	C	T	missense	ORF6	128C>T	Ser43Leu	4053	0.0903	128	ORF6_128C>T_Ser43Leu_missense
+48	29742	G	A	intergenic	ORF10-CHR_END	29742G>A		560	0.9946	29742	ORF10-CHR_END_29742G>A__intergenic

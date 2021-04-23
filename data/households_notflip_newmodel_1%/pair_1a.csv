@@ -1,0 +1,15 @@
+	SNP	FREQ_index	FREQ_contact	total_reads_contact	variant_reads_contact
+0	CHR_START-orf1ab_241:C>T__intergenic-region	0.9762	0.98465	3036.5	2990.5
+1	orf1ab_1059:C>T_Thr265Ile_missense	0.9848	0.9877	4428.5	4373.0
+2	orf1ab_3037:C>T_Phe924Phe_synonymous	0.97685	0.9851	3026.5	2982.5
+3	orf1ab_3136:T>C_Gly957Gly_synonymous	0.011000000000000001	0.0	2990.0	0.0
+4	orf1ab_6884:G>T_Gly2207Cys_missense	0.95085	0.98215	2204.0	2164.5
+5	orf1ab_11083:G>T_Leu3606Phe_missense	0.01595	0.0	4028.0	0.0
+6	orf1ab_14408:C>T_Pro4715Leu_missense	0.98595	0.99355	6290.5	6250.5
+7	orf1ab_15139:A>C_Thr4959Pro_missense	0.01745	0.01455	4259.0	57.0
+8	orf1ab_15141:C>A_Thr4959Thr_synonymous	0.0179	0.02015	4259.0	85.0
+9	orf1ab_15167:T>G_Leu4968Trp_missense	0.01245	0.0	2319.0	0.0
+10	S_23403:A>G_As14Gly_missense	0.9840000000000001	0.9904	5082.5	5036.0
+11	ORF3a_25563:G>T_Gln57His_missense	0.98965	0.9933	5940.5	5902.0
+12	N_28975:G>A_Met234Ile_missense	0.0167	0.0	591.5	0.0
+13	N_29353:C>T_Tyr360Tyr_synonymous	0.01815	0.0	3888.0	0.0

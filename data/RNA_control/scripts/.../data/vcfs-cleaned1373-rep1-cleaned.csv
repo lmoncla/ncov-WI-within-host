@@ -1,0 +1,14 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	FREQ	gene_POS	SNP
+0	2	T	A	intergenic	CHR_START-orf1ab	2T>A		0.0606	2	CHR_START-orf1ab_2T>A__intergenic
+1	4	A	T	intergenic	CHR_START-orf1ab	4A>T		0.0909	4	CHR_START-orf1ab_4A>T__intergenic
+2	5	A	G	intergenic	CHR_START-orf1ab	5A>G		0.0606	5	CHR_START-orf1ab_5A>G__intergenic
+3	6	A	C	intergenic	CHR_START-orf1ab	6A>C		0.0606	6	CHR_START-orf1ab_6A>C__intergenic
+4	13	T	A	intergenic	CHR_START-orf1ab	13T>A		0.0303	13	CHR_START-orf1ab_13T>A__intergenic
+9	241	C	T	intergenic	CHR_START-orf1ab	241C>T		0.8361	241	CHR_START-orf1ab_241C>T__intergenic
+10	2035	G	T	missense	orf1ab	1770G>T	Leu590Phe	0.766	1770	orf1ab_1770G>T_Leu590Phe_missense
+11	3037	C	T	synonymous	orf1ab	2772C>T	Phe924Phe	0.7727	2772	orf1ab_2772C>T_Phe924Phe_synonymous
+12	12025	C	T	synonymous	orf1ab	11760C>T	Ser3920Ser	0.851	11760	orf1ab_11760C>T_Ser3920Ser_synonymous
+13	14408	C	T	missense	orf1ab	14144C>T	Pro4715Leu	0.8359	14144	orf1ab_14144C>T_Pro4715Leu_missense
+15	28881	G	A	missense	N	608G>A	Arg203Lys	0.9957	608	N_608G>A_Arg203Lys_missense
+16	28882	G	A	synonymous	N	609G>A	Arg203Arg	0.9939	609	N_609G>A_Arg203Arg_synonymous
+17	28883	G	C	missense	N	610G>C	Gly204Arg	0.9972	610	N_610G>C_Gly204Arg_missense

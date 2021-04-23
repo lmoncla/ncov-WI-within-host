@@ -1,0 +1,100 @@
+Building DAG of jobs...
+Using shell: /bin/bash
+Provided cores: 4
+Rules claiming more threads will be scaled down.
+Job counts:
+	count	jobs
+	1	all
+	1	annotate_variants
+	1	call_variants
+	1	copy_reference_genbank
+	1	create_novoindex
+	1	create_snpeff_database
+	1	download_ncbi_reference
+	1	index_ncbi_reference
+	1	map_reads_to_reference
+	1	preprocess_merged_reads
+	1	simple_merge_fastq
+	11
+
+[Sun Feb 21 18:19:20 2021]
+Job 10: run reformat.sh to create a single FASTQ file from paired-end inputs
+
+[Sun Feb 21 18:19:20 2021]
+Job 5: download reference sequence from NCBI in Genbank format
+
+Removing temporary output file ref/tmp.gbk.
+Removing temporary output file ref/tmp_cleaned.gbk.
+[Sun Feb 21 18:19:22 2021]
+Finished job 5.
+1 of 11 steps (9%) done
+
+[Sun Feb 21 18:19:22 2021]
+Job 3: copies reference Genbank file to output folder so it can be loaded in Geneious
+
+[Sun Feb 21 18:19:22 2021]
+Job 8: create Novoalign index
+
+[Sun Feb 21 18:19:22 2021]
+Job 9: run samtools faidx to create FASTA index
+
+Removing temporary output file tmp/merged.fq.gz.
+[Sun Feb 21 18:19:23 2021]
+Finished job 10.
+2 of 11 steps (18%) done
+
+[Sun Feb 21 18:19:23 2021]
+Job 7: remove low quality, short reads, and downsample merged.fq.gz to specified number of reads.
+        This is useful when you have a whole genome dataset that has more coverage than can be supported by amount of input template
+
+[Sun Feb 21 18:19:24 2021]
+Finished job 3.
+3 of 11 steps (27%) done
+[Sun Feb 21 18:19:24 2021]
+Finished job 9.
+4 of 11 steps (36%) done
+[Sun Feb 21 18:19:24 2021]
+Finished job 8.
+5 of 11 steps (45%) done
+
+[Sun Feb 21 18:19:24 2021]
+Job 6: create database for functione variant annotation with snpEff
+
+Removing temporary output file out/merged.fq.gz.
+[Sun Feb 21 18:19:26 2021]
+Finished job 7.
+6 of 11 steps (55%) done
+
+[Sun Feb 21 18:19:26 2021]
+Job 4: Map preprocessed reads to reference with BBMap
+
+[Sun Feb 21 18:19:29 2021]
+Finished job 6.
+7 of 11 steps (64%) done
+[Sun Feb 21 18:19:38 2021]
+Finished job 4.
+8 of 11 steps (73%) done
+
+[Sun Feb 21 18:19:38 2021]
+Job 1: sort and index SAM file, then use bbmap callvariants.sh to call variants
+
+[Sun Feb 21 18:19:40 2021]
+Finished job 1.
+9 of 11 steps (82%) done
+
+[Sun Feb 21 18:19:40 2021]
+Job 2: annotate VCF variants with snpEff
+
+[Sun Feb 21 18:19:45 2021]
+Finished job 2.
+10 of 11 steps (91%) done
+
+[Sun Feb 21 18:19:45 2021]
+rule all:
+    input: out/643-neg-rep1.bam, out/643-neg-rep1.vcf, out/MN908947.3.gbk
+    jobid: 0
+
+[Sun Feb 21 18:19:46 2021]
+Finished job 0.
+11 of 11 steps (100%) done
+Complete log: /scratch/643-rep1/.snakemake/log/2021-02-21T181919.674038.snakemake.log

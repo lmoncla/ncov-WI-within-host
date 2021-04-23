@@ -1,0 +1,12 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	FREQ	gene_POS	SNP
+0	22	A	C	intergenic	CHR_START-orf1ab	22A>C		0.102	22	CHR_START-orf1ab_22A>C__intergenic
+1	22	A	T	intergenic	CHR_START-orf1ab	22A>T		0.102	22	CHR_START-orf1ab_22A>T__intergenic
+2	26	A	G	intergenic	CHR_START-orf1ab	26A>G		0.0833	26	CHR_START-orf1ab_26A>G__intergenic
+3	26	A	T	intergenic	CHR_START-orf1ab	26A>T		0.0595	26	CHR_START-orf1ab_26A>T__intergenic
+9	241	C	T	intergenic	CHR_START-orf1ab	241C>T		0.9018	241	CHR_START-orf1ab_241C>T__intergenic
+14	3037	C	T	synonymous	orf1ab	2772C>T	Phe924Phe	0.8502	2772	orf1ab_2772C>T_Phe924Phe_synonymous
+20	7513	T	C	synonymous	orf1ab	7248T>C	Asn2416Asn	0.8645	7248	orf1ab_7248T>C_Asn2416Asn_synonymous
+29	14408	C	T	missense	orf1ab	14144C>T	Pro4715Leu	0.8799	14144	orf1ab_14144C>T_Pro4715Leu_missense
+34	15102	T	C	synonymous	orf1ab	14838T>C	Ala4946Ala	0.06	14838	orf1ab_14838T>C_Ala4946Ala_synonymous
+39	15354	T	C	synonymous	orf1ab	15090T>C	Leu5030Leu	0.8919	15090	orf1ab_15090T>C_Leu5030Leu_synonymous
+58	28564	T	G	synonymous	N	291T>G	Gly97Gly	0.0311	291	N_291T>G_Gly97Gly_synonymous

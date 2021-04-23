@@ -1,0 +1,22 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	FREQ	gene_POS	SNP
+0	241	C	T	intergenic	CHR_START-orf1ab	241C>T		0.9608	241	CHR_START-orf1ab_241C>T__intergenic
+41	3037	C	T	synonymous	orf1ab	2772C>T	Phe924Phe	0.9935	2772	orf1ab_2772C>T_Phe924Phe_synonymous
+119	6696	C	CT	frameshift	orf1ab	6435dupT	Leu2146fs	0.0453	6435	orf1ab_6435dupT_Leu2146fs_frameshift
+127	7223	G	A	missense	orf1ab	6958G>A	Ala2320Thr	0.0514	6958	orf1ab_6958G>A_Ala2320Thr_missense
+133	7613	TG	T	frameshift	orf1ab	7350delG	Tr450fs	0.0301	7350	orf1ab_7350delG_Tr450fs_frameshift
+136	7929	A	G	missense	orf1ab	7664A>G	Lys2555Arg	0.9969	7664	orf1ab_7664A>G_Lys2555Arg_missense
+149	9195	C	T	missense	orf1ab	8930C>T	Thr2977Ile	0.9968	8930	orf1ab_8930C>T_Thr2977Ile_missense
+191	11983	A	G	synonymous	orf1ab	11718A>G	Glu3906Glu	0.0322	11718	orf1ab_11718A>G_Glu3906Glu_synonymous
+229	13799	C	T	missense	orf1ab	13535C>T	Thr4512Ile	0.0302	13535	orf1ab_13535C>T_Thr4512Ile_missense
+245	14408	C	T	missense	orf1ab	14144C>T	Pro4715Leu	0.9969	14144	orf1ab_14144C>T_Pro4715Leu_missense
+265	15354	T	C	synonymous	orf1ab	15090T>C	Leu5030Leu	0.9942	15090	orf1ab_15090T>C_Leu5030Leu_synonymous
+284	15965	G	GT	frameshift	orf1ab	15705dupT	Val5236fs	0.0544	15705	orf1ab_15705dupT_Val5236fs_frameshift
+327	17550	C	T	synonymous	orf1ab	17286C>T	Leu5762Leu	0.0701	17286	orf1ab_17286C>T_Leu5762Leu_synonymous
+341	18434	AT	A	frameshift	orf1ab	18175delT	Ser6059fs	0.0368	18175	orf1ab_18175delT_Ser6059fs_frameshift
+344	18877	C	T	synonymous	orf1ab	18613C>T	Leu6205Leu	0.9978	18613	orf1ab_18613C>T_Leu6205Leu_synonymous
+364	19983	C	CT	frameshift&stop	orf1ab	19725dupT	As576fs	0.0383	19725	orf1ab_19725dupT_As576fs_frameshift&stop
+390	21523	G	A	missense	orf1ab	21259G>A	Val7087Ile	0.1062	21259	orf1ab_21259G>A_Val7087Ile_missense
+423	23403	A	G	missense	S	1841A>G	As14Gly	0.9835	1841	S_1841A>G_As14Gly_missense
+462	25563	G	T	missense	ORF3a	171G>T	Gln57His	0.9984	171	ORF3a_171G>T_Gln57His_missense
+508	27970	C	T	missense	ORF8	77C>T	Thr26Ile	0.0591	77	ORF8_77C>T_Thr26Ile_missense
+543	29804	T	TA	intergenic	ORF10-CHR_END	29804_29805isA		0.0685	29804_29805	ORF10-CHR_END_29804_29805isA__intergenic

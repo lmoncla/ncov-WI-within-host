@@ -1,0 +1,21 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	read_depth	FREQ	gene_POS	SNP
+29	241	C	T	intergenic	CHR_START-orf1ab	241C>T		2337	0.9773	241	CHR_START-orf1ab_241C>T__intergenic
+33	1059	C	T	missense	orf1ab	794C>T	Thr265Ile	3388	0.9858	794	orf1ab_794C>T_Thr265Ile_missense
+35	1730	G	A	missense	orf1ab	1465G>A	Glu489Lys	3375	0.0107	1465	orf1ab_1465G>A_Glu489Lys_missense
+36	3037	C	T	synonymous	orf1ab	2772C>T	Phe924Phe	2517	0.9801	2772	orf1ab_2772C>T_Phe924Phe_synonymous
+37	4633	C	T	synonymous	orf1ab	4368C>T	Gly1456Gly	2659	0.0184	4368	orf1ab_4368C>T_Gly1456Gly_synonymous
+38	6696	C	T	missense	orf1ab	6431C>T	Pro2144Leu	2724	0.0162	6431	orf1ab_6431C>T_Pro2144Leu_missense
+40	6884	G	T	missense	orf1ab	6619G>T	Gly2207Cys	1561	0.9616	6619	orf1ab_6619G>T_Gly2207Cys_missense
+41	7870	A	T	synonymous	orf1ab	7605A>T	Ser2535Ser	2741	0.0106	7605	orf1ab_7605A>T_Ser2535Ser_synonymous
+44	10619	C	A	missense	orf1ab	10354C>A	Gln3452Lys	3747	0.0107	10354	orf1ab_10354C>A_Gln3452Lys_missense
+46	11083	G	T	missense	orf1ab	10818G>T	Leu3606Phe	3527	0.0113	10818	orf1ab_10818G>T_Leu3606Phe_missense
+48	14408	C	T	missense	orf1ab	14144C>T	Pro4715Leu	2166	0.9668	14144	orf1ab_14144C>T_Pro4715Leu_missense
+49	15118	G	T	missense	orf1ab	14854G>T	Val4952Phe	3900	0.0131	14854	orf1ab_14854G>T_Val4952Phe_missense
+50	15141	C	A	synonymous	orf1ab	14877C>A	Thr4959Thr	3900	0.0105	14877	orf1ab_14877C>A_Thr4959Thr_synonymous
+51	15167	T	G	missense	orf1ab	14903T>G	Leu4968Trp	3899	0.0126	14903	orf1ab_14903T>G_Leu4968Trp_missense
+56	20533	A	G	missense	orf1ab	20269A>G	Ile6757Val	3928	0.0153	20269	orf1ab_20269A>G_Ile6757Val_missense
+57	21005	C	T	missense	orf1ab	20741C>T	Ala6914Val	4373	0.0165	20741	orf1ab_20741C>T_Ala6914Val_missense
+59	23403	A	G	missense	S	1841A>G	As14Gly	3948	0.9853	1841	S_1841A>G_As14Gly_missense
+61	25563	G	T	missense	ORF3a	171G>T	Gln57His	4766	0.9901	171	ORF3a_171G>T_Gln57His_missense
+64	27175	C	T	missense	M	653C>T	Ala218Val	7100	0.0142	653	M_653C>T_Ala218Val_missense
+66	28326	G	T	missense	N	53G>T	Gly18Val	3463	0.0101	53	N_53G>T_Gly18Val_missense

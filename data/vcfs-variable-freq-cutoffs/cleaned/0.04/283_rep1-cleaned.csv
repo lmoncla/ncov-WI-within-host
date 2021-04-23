@@ -1,0 +1,3 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	read_depth	FREQ	gene_POS	SNP
+25	21171	A	T	synonymous	orf1ab	20907A>T	Ile6969Ile	1153	0.0668	20907	orf1ab_20907A>T_Ile6969Ile_synonymous
+32	29711	G	T	intergenic	ORF10-CHR_END	29711G>T		1131	1.0	29711	ORF10-CHR_END_29711G>T__intergenic

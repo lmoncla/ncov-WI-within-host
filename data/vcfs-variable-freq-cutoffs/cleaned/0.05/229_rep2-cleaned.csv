@@ -1,0 +1,21 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	read_depth	FREQ	gene_POS	SNP
+1	241	C	T	intergenic	CHR_START-orf1ab	241C>T		1024	0.998	241	CHR_START-orf1ab_241C>T__intergenic
+15	1730	G	A	missense	orf1ab	1465G>A	Glu489Lys	3351	0.0713	1465	orf1ab_1465G>A_Glu489Lys_missense
+27	3037	C	T	synonymous	orf1ab	2772C>T	Phe924Phe	2412	0.9967	2772	orf1ab_2772C>T_Phe924Phe_synonymous
+36	4335	C	T	missense	orf1ab	4070C>T	Pro1357Leu	5639	0.0617	4070	orf1ab_4070C>T_Pro1357Leu_missense
+42	4428	T	G	stop	orf1ab	4163T>G	Leu1388*	2370	0.0705	4163	orf1ab_4163T>G_Leu1388*_stop
+43	4453	A	G	synonymous	orf1ab	4188A>G	Lys1396Lys	2370	0.0709	4188	orf1ab_4188A>G_Lys1396Lys_synonymous
+44	4456	C	A	synonymous	orf1ab	4191C>A	Ala1397Ala	2370	0.0709	4191	orf1ab_4191C>A_Ala1397Ala_synonymous
+64	6317	C	T	missense	orf1ab	6052C>T	Pro2018Ser	1299	0.0908	6052	orf1ab_6052C>T_Pro2018Ser_missense
+85	7924	T	C	synonymous	orf1ab	7659T>C	Ser2553Ser	2071	0.0502	7659	orf1ab_7659T>C_Ser2553Ser_synonymous
+163	14408	C	T	missense	orf1ab	14144C>T	Pro4715Leu	398	0.9899	14144	orf1ab_14144C>T_Pro4715Leu_missense
+177	15157	C	A	missense	orf1ab	14893C>A	Gln4965Lys	2299	0.077	14893	orf1ab_14893C>A_Gln4965Lys_missense
+184	15354	T	C	synonymous	orf1ab	15090T>C	Leu5030Leu	2406	0.9971	15090	orf1ab_15090T>C_Leu5030Leu_synonymous
+187	15860	A	G	missense	orf1ab	15596A>G	Lys5199Arg	4036	0.0624	15596	orf1ab_15596A>G_Lys5199Arg_missense
+243	18231	T	C	synonymous	orf1ab	17967T>C	Tyr5989Tyr	2367	0.0579	17967	orf1ab_17967T>C_Tyr5989Tyr_synonymous
+251	18877	C	T	synonymous	orf1ab	18613C>T	Leu6205Leu	1737	0.996	18613	orf1ab_18613C>T_Leu6205Leu_synonymous
+277	20759	C	T	missense	orf1ab	20495C>T	Ala6832Val	1105	0.0534	20495	orf1ab_20495C>T_Ala6832Val_missense
+283	21587	C	T	missense	S	25C>T	Pro9Ser	680	0.0706	25	S_25C>T_Pro9Ser_missense
+303	23403	A	G	missense	S	1841A>G	As14Gly	3117	0.9965	1841	S_1841A>G_As14Gly_missense
+308	23996	C	T	missense	S	2434C>T	Pro812Ser	1648	0.0564	2434	S_2434C>T_Pro812Ser_missense
+324	25563	G	T	missense	ORF3a	171G>T	Gln57His	3031	0.9977	171	ORF3a_171G>T_Gln57His_missense

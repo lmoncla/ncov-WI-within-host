@@ -1,0 +1,22 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	read_depth	FREQ	gene_POS	SNP
+0	241	C	T	intergenic	CHR_START-orf1ab	241C>T		726	0.9807	241	CHR_START-orf1ab_241C>T__intergenic
+20	2486	T	G	missense	orf1ab	2221T>G	Phe741Val	976	0.0512	2221	orf1ab_2221T>G_Phe741Val_missense
+26	3037	C	T	synonymous	orf1ab	2772C>T	Phe924Phe	905	0.9834	2772	orf1ab_2772C>T_Phe924Phe_synonymous
+66	8084	G	A	missense	orf1ab	7819G>A	Glu2607Lys	920	0.0391	7819	orf1ab_7819G>A_Glu2607Lys_missense
+115	14408	C	T	missense	orf1ab	14144C>T	Pro4715Leu	2103	0.9848	14144	orf1ab_14144C>T_Pro4715Leu_missense
+147	18877	C	T	synonymous	orf1ab	18613C>T	Leu6205Leu	1429	0.9888	18613	orf1ab_18613C>T_Leu6205Leu_synonymous
+178	23403	A	G	missense	S	1841A>G	As14Gly	1363	0.9875	1841	S_1841A>G_As14Gly_missense
+194	25563	G	T	missense	ORF3a	171G>T	Gln57His	1609	0.9907	171	ORF3a_171G>T_Gln57His_missense
+221	28871	G	A	missense	N	598G>A	Gly200Ser	132	0.9773	598	N_598G>A_Gly200Ser_missense
+222	28976	T	A	missense	N	703T>A	Ser235Thr	132	0.1364	703	N_703T>A_Ser235Thr_missense
+223	28978	T	A	synonymous	N	705T>A	Ser235Ser	132	0.1364	705	N_705T>A_Ser235Ser_synonymous
+224	28979	G	A	missense	N	706G>A	Gly236Ser	132	0.1364	706	N_706G>A_Gly236Ser_missense
+225	28980	G	C	missense	N	707G>C	Gly236Ala	132	0.1364	707	N_707G>C_Gly236Ala_missense
+226	28981	T	G	synonymous	N	708T>G	Gly236Gly	132	0.1364	708	N_708T>G_Gly236Gly_synonymous
+227	28982	A	T	stop	N	709A>T	Lys237*	132	0.1364	709	N_709A>T_Lys237*_stop
+228	28983	A	C	missense	N	710A>C	Lys237Thr	132	0.1364	710	N_710A>C_Lys237Thr_missense
+229	28984	A	G	synonymous	N	711A>G	Lys237Lys	132	0.1364	711	N_711A>G_Lys237Lys_synonymous
+230	29008	T	C	synonymous	N	735T>C	Thr245Thr	132	0.1364	735	N_735T>C_Thr245Thr_synonymous
+231	29009	G	T	missense	N	736G>T	Val246Phe	132	0.1364	736	N_736G>T_Val246Phe_missense
+232	29010	T	G	missense	N	737T>G	Val246Gly	132	0.1364	737	N_737T>G_Val246Gly_missense
+239	29405	G	A	missense	N	1132G>A	Glu378Lys	150	0.0733	1132	N_1132G>A_Glu378Lys_missense

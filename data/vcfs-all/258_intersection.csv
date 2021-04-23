@@ -1,0 +1,4 @@
+	SNP	POS_x	rep1_percent	rep2_percent	%
+0	orf1ab_1647C>T_Ser549Ser_synonymous	1912.0	0.0346	0.0454	0.04
+4	M_159C>T_Phe53Phe_synonymous	26681.0	0.0508	0.047	0.0489
+5	ORF10-CHR_END_29711G>T__intergenic	29711.0	0.9955	0.988	1.0

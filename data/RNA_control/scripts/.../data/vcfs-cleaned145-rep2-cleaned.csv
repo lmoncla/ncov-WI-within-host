@@ -1,0 +1,86 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	FREQ	gene_POS	SNP
+0	72	G	A	intergenic	CHR_START-orf1ab	72G>A		0.0483	72	CHR_START-orf1ab_72G>A__intergenic
+11	272	A	G	missense	orf1ab	7A>G	Ser3Gly	0.037	7	orf1ab_7A>G_Ser3Gly_missense
+42	1406	G	A	missense	orf1ab	1141G>A	Glu381Lys	0.0357	1141	orf1ab_1141G>A_Glu381Lys_missense
+87	2487	T	C	missense	orf1ab	2222T>C	Phe741Ser	0.0326	2222	orf1ab_2222T>C_Phe741Ser_missense
+95	2551	T	C	synonymous	orf1ab	2286T>C	As62Asp	0.0396	2286	orf1ab_2286T>C_As62Asp_synonymous
+118	3003	A	G	missense	orf1ab	2738A>G	Glu913Gly	0.0312	2738	orf1ab_2738A>G_Glu913Gly_missense
+124	3018	C	T	missense	orf1ab	2753C>T	Ser918Leu	0.0343	2753	orf1ab_2753C>T_Ser918Leu_missense
+177	4976	T	C	missense	orf1ab	4711T>C	Phe1571Leu	0.0389	4711	orf1ab_4711T>C_Phe1571Leu_missense
+193	5916	T	C	missense	orf1ab	5651T>C	Leu1884Ser	0.0347	5651	orf1ab_5651T>C_Leu1884Ser_missense
+201	6099	C	A	missense	orf1ab	5834C>A	Thr1945Asn	0.036	5834	orf1ab_5834C>A_Thr1945Asn_missense
+214	6696	C	CT	frameshift	orf1ab	6435dupT	Leu2146fs	0.0868	6435	orf1ab_6435dupT_Leu2146fs_frameshift
+233	7347	A	G	missense	orf1ab	7082A>G	Asn2361Ser	0.0311	7082	orf1ab_7082A>G_Asn2361Ser_missense
+240	7653	C	T	missense	orf1ab	7388C>T	Thr2463Ile	0.0342	7388	orf1ab_7388C>T_Thr2463Ile_missense
+245	8291	A	G	missense	orf1ab	8026A>G	Thr2676Ala	0.0339	8026	orf1ab_8026A>G_Thr2676Ala_missense
+268	8782	C	T	synonymous	orf1ab	8517C>T	Ser2839Ser	0.9512	8517	orf1ab_8517C>T_Ser2839Ser_synonymous
+314	10522	T	G	missense	orf1ab	10257T>G	Cys3419Trp	0.0308	10257	orf1ab_10257T>G_Cys3419Trp_missense
+321	10619	C	CA	frameshift	orf1ab	10357dupA	Thr3453fs	0.0441	10357	orf1ab_10357dupA_Thr3453fs_frameshift
+411	15008	A	T	missense	orf1ab	14744A>T	As915Val	0.0386	14744	orf1ab_14744A>T_As915Val_missense
+412	15019	C	T	missense	orf1ab	14755C>T	Leu4919Phe	0.0322	14755	orf1ab_14755C>T_Leu4919Phe_missense
+430	15096	T	A	missense	orf1ab	14832T>A	Asn4944Lys	0.045	14832	orf1ab_14832T>A_Asn4944Lys_missense
+435	15102	T	C	synonymous	orf1ab	14838T>C	Ala4946Ala	0.0804	14838	orf1ab_14838T>C_Ala4946Ala_synonymous
+437	15105	C	A	synonymous	orf1ab	14841C>A	Arg4947Arg	0.0322	14841	orf1ab_14841C>A_Arg4947Arg_synonymous
+438	15106	A	C	missense	orf1ab	14842A>C	Thr4948Pro	0.0868	14842	orf1ab_14842A>C_Thr4948Pro_missense
+442	15118	G	T	missense	orf1ab	14854G>T	Val4952Phe	0.0361	14854	orf1ab_14854G>T_Val4952Phe_missense
+449	15129	T	G	missense	orf1ab	14865T>G	Cys4955Trp	0.0301	14865	orf1ab_14865T>G_Cys4955Trp_missense
+455	15137	T	G	missense	orf1ab	14873T>G	Met4958Arg	0.0542	14873	orf1ab_14873T>G_Met4958Arg_missense
+457	15139	A	C	missense	orf1ab	14875A>C	Thr4959Pro	0.0301	14875	orf1ab_14875A>C_Thr4959Pro_missense
+458	15141	C	A	synonymous	orf1ab	14877C>A	Thr4959Thr	0.0422	14877	orf1ab_14877C>A_Thr4959Thr_synonymous
+459	15144	T	A	missense	orf1ab	14880T>A	Asn4960Lys	0.0301	14880	orf1ab_14880T>A_Asn4960Lys_missense
+464	15154	C	A	missense	orf1ab	14890C>A	His4964Asn	0.0301	14890	orf1ab_14890C>A_His4964Asn_missense
+468	15167	T	G	missense	orf1ab	14903T>G	Leu4968Trp	0.0422	14903	orf1ab_14903T>G_Leu4968Trp_missense
+496	15965	G	GT	frameshift	orf1ab	15705dupT	Val5236fs	0.0794	15705	orf1ab_15705dupT_Val5236fs_frameshift
+523	16343	C	T	missense	orf1ab	16079C>T	Ser5360Leu	0.0329	16079	orf1ab_16079C>T_Ser5360Leu_missense
+583	18368	G	GT	frameshift	orf1ab	18109dupT	Ser6037fs	0.0331	18109	orf1ab_18109dupT_Ser6037fs_frameshift
+595	18631	T	C	missense	orf1ab	18367T>C	Phe6123Leu	0.0431	18367	orf1ab_18367T>C_Phe6123Leu_missense
+647	19898	C	T	missense	orf1ab	19634C>T	Pro6545Leu	0.0446	19634	orf1ab_19634C>T_Pro6545Leu_missense
+708	20956	C	T	missense	orf1ab	20692C>T	Leu6898Phe	0.0582	20692	orf1ab_20692C>T_Leu6898Phe_missense
+720	21399	G	A	missense	orf1ab	21135G>A	Met7045Ile	0.0337	21135	orf1ab_21135G>A_Met7045Ile_missense
+732	21761	GCTATACATGTCTCTGGGACCAATGGTA	G	frameshift	S	203_229delTACATGTCTCTGGGACCAATGGTACTA	Ile68_Thr76del	0.0481	203_229	S_203_229delTACATGTCTCTGGGACCAATGGTACTA_Ile68_Thr76del_frameshift
+735	21846	C	T	missense	S	284C>T	Thr95Ile	0.0367	284	S_284C>T_Thr95Ile_missense
+737	21857	A	AAATTGAATT	disruptive_inframe_insertion	S	296_297isATTGAATTA	Asn99delinsLysLeuAsnTyr	0.0682	296_297	S_296_297isATTGAATTA_Asn99delinsLysLeuAsnTyr_disruptive_inframe_insertion
+741	22006	C	A	missense	S	444C>A	Asn148Lys	0.0456	444	S_444C>A_Asn148Lys_missense
+746	22205	G	C	missense	S	643G>C	As15His	0.1291	643	S_643G>C_As15His_missense
+751	22370	C	A	missense	S	808C>A	Leu270Ile	0.0526	808	S_808C>A_Leu270Ile_missense
+752	22482	C	T	missense	S	920C>T	Thr307Ile	0.0357	920	S_920C>T_Thr307Ile_missense
+781	23481	C	T	missense	S	1919C>T	Ser640Phe	0.03	1919	S_1919C>T_Ser640Phe_missense
+790	23586	AGACTCAGACTAATTCTCCTCG	A	frameshift	S	2026_2046delACTCAGACTAATTCTCCTCGG	Thr676_Arg682del	0.0308	2026_2046	S_2026_2046delACTCAGACTAATTCTCCTCGG_Thr676_Arg682del_frameshift
+791	23606	C	T	missense	S	2044C>T	Arg682Trp	0.0498	2044	S_2044C>T_Arg682Trp_missense
+792	23607	G	A	missense	S	2045G>A	Arg682Gln	0.0597	2045	S_2045G>A_Arg682Gln_missense
+793	23607	G	T	missense	S	2045G>T	Arg682Leu	0.199	2045	S_2045G>T_Arg682Leu_missense
+796	23618	A	G	missense	S	2056A>G	Ser686Gly	0.0498	2056	S_2056A>G_Ser686Gly_missense
+798	23619	G	T	missense	S	2057G>T	Ser686Ile	0.0647	2057	S_2057G>T_Ser686Ile_missense
+803	23626	TAGTCAATCC	T	frameshift	S	2066_2074delGTCAATCCA	Ser689_Ser691del	0.0448	2066_2074	S_2066_2074delGTCAATCCA_Ser689_Ser691del_frameshift
+813	23678	G	T	missense	S	2116G>T	Ala706Ser	0.0398	2116	S_2116G>T_Ala706Ser_missense
+814	23692	C	A	missense	S	2130C>A	Asn710Lys	0.0533	2130	S_2130C>A_Asn710Lys_missense
+831	24120	A	G	missense	S	2558A>G	Gln853Arg	0.0327	2558	S_2558A>G_Gln853Arg_missense
+868	25701	C	A	synonymous	ORF3a	309C>A	Ala103Ala	0.0395	309	ORF3a_309C>A_Ala103Ala_synonymous
+892	26274	T	C	synonymous	E	30T>C	Gly10Gly	0.0341	30	E_30T>C_Gly10Gly_synonymous
+904	26749	T	A	missense	M	227T>A	Ile76Asn	0.0333	227	M_227T>A_Ile76Asn_missense
+907	26765	T	C	synonymous	M	243T>C	Ala81Ala	0.0306	243	M_243T>C_Ala81Ala_synonymous
+952	27906	G	GT	frameshift	ORF8	17dupT	Gly8fs	0.0326	17	ORF8_17dupT_Gly8fs_frameshift
+966	28144	T	C	missense	ORF8	251T>C	Leu84Ser	0.9624	251	ORF8_251T>C_Leu84Ser_missense
+969	28214	C	CT	frameshift	ORF8	326dupT	Leu109fs	0.0308	326	ORF8_326dupT_Leu109fs_frameshift
+1021	28634	C	A	missense	N	361C>A	Leu121Ile	0.0343	361	N_361C>A_Leu121Ile_missense
+1031	28738	T	C	synonymous	N	465T>C	Ala155Ala	0.0806	465	N_465T>C_Ala155Ala_synonymous
+1036	28853	T	A	missense	N	580T>A	Ser194Thr	0.2632	580	N_580T>A_Ser194Thr_missense
+1041	28891	T	C	synonymous	N	618T>C	Ser206Ser	0.0658	618	N_618T>C_Ser206Ser_synonymous
+1043	28897	T	C	synonymous	N	624T>C	Ala208Ala	0.0395	624	N_624T>C_Ala208Ala_synonymous
+1053	28965	A	G	missense	N	692A>G	Glu231Gly	0.0698	692	N_692A>G_Glu231Gly_missense
+1056	28975	G	T	missense	N	702G>T	Met234Ile	0.0465	702	N_702G>T_Met234Ile_missense
+1057	28977	C	T	missense	N	704C>T	Ser235Phe	0.0465	704	N_704C>T_Ser235Phe_missense
+1066	29027	G	A	missense	N	754G>A	Ala252Thr	0.0473	754	N_754G>A_Ala252Thr_missense
+1085	29471	T	G	missense	N	1198T>G	Leu400Val	0.0526	1198	N_1198T>G_Leu400Val_missense
+1093	29483	T	C	missense	N	1210T>C	Ser404Pro	0.0526	1210	N_1210T>C_Ser404Pro_missense
+1094	29486	A	T	stop	N	1213A>T	Lys405*	0.1053	1213	N_1213A>T_Lys405*_stop
+1103	29652	T	C	missense	ORF10	95T>C	Val32Ala	0.0313	95	ORF10_95T>C_Val32Ala_missense
+1106	29662	T	A	missense	ORF10	105T>A	Phe35Leu	0.0313	105	ORF10_105T>A_Phe35Leu_missense
+1117	29722	C	A	intergenic	ORF10-CHR_END	29722C>A		0.0789	29722	ORF10-CHR_END_29722C>A__intergenic
+1120	29733	CGAGGC	C	intergenic	ORF10-CHR_END	29734_29738delGAGGC		0.05	29734_29738	ORF10-CHR_END_29734_29738delGAGGC__intergenic
+1121	29739	C	A	intergenic	ORF10-CHR_END	29739C>A		0.05	29739	ORF10-CHR_END_29739C>A__intergenic
+1122	29776	AG	A	intergenic	ORF10-CHR_END	29777delG		0.0526	29777	ORF10-CHR_END_29777delG__intergenic
+1123	29799	A	G	intergenic	ORF10-CHR_END	29799A>G		0.0526	29799	ORF10-CHR_END_29799A>G__intergenic
+1124	29815	A	G	intergenic	ORF10-CHR_END	29815A>G		0.0526	29815	ORF10-CHR_END_29815A>G__intergenic
+1125	29818	A	T	intergenic	ORF10-CHR_END	29818A>T		0.0526	29818	ORF10-CHR_END_29818A>T__intergenic
+1126	29834	TC	T	intergenic	ORF10-CHR_END	29835delC		0.0526	29835	ORF10-CHR_END_29835delC__intergenic

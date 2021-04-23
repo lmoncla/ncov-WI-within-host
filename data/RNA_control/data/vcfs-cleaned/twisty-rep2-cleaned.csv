@@ -1,0 +1,15 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	read_depth	FREQ	gene_POS	SNP
+4858	3350	A	T	missense	orf1ab	3085A>T	Ser1029Cys	6217	0.0441	3085	orf1ab_3085A>T_Ser1029Cys_missense
+5106	3561	T	A	missense	orf1ab	3296T>A	Val1099Glu	1636	0.0122	3296	orf1ab_3296T>A_Val1099Glu_missense
+8745	6669	G	A	stop	orf1ab	6404G>A	Tr135*	6320	0.0347	6404	orf1ab_6404G>A_Tr135*_stop
+11192	8853	G	T	missense	orf1ab	8588G>T	Gly2863Val	2176	0.011	8588	orf1ab_8588G>T_Gly2863Val_missense
+11690	9164	A	T	missense	orf1ab	8899A>T	Thr2967Ser	4478	0.0109	8899	orf1ab_8899A>T_Thr2967Ser_missense
+27325	20442	A	T	synonymous	orf1ab	20178A>T	Thr6726Thr	319	0.0125	20178	orf1ab_20178A>T_Thr6726Thr_synonymous
+28405	21492	T	A	synonymous	orf1ab	21228T>A	Gly7076Gly	1303	0.0107	21228	orf1ab_21228T>A_Gly7076Gly_synonymous
+34459	26714	T	G	missense	M	192T>G	Cys64Trp	7825	0.0107	192	M_192T>G_Cys64Trp_missense
+34480	26721	C	T	missense	M	199C>T	Leu67Phe	7826	0.0111	199	M_199C>T_Leu67Phe_missense
+34483	26722	T	A	missense	M	200T>A	Leu67His	7826	0.0106	200	M_200T>A_Leu67His_missense
+34486	26723	T	C	synonymous	M	201T>C	Leu67Leu	7826	0.0106	201	M_201T>C_Leu67Leu_synonymous
+34635	26791	T	A	stop	M	269T>A	Leu90*	8193	0.1368	269	M_269T>A_Leu90*_stop
+34643	26793	A	G	missense	M	271A>G	Met91Val	8193	0.1354	271	M_271A>G_Met91Val_missense
+34653	26796	T	A	missense	M	274T>A	Tr2Arg	8193	0.1352	274	M_274T>A_Tr2Arg_missense

@@ -1,0 +1,22 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	FREQ	gene_POS	SNP
+0	12	A	C	intergenic	CHR_START-orf1ab	12A>C		0.9	12	CHR_START-orf1ab_12A>C__intergenic
+1	13	T	C	intergenic	CHR_START-orf1ab	13T>C		0.2	13	CHR_START-orf1ab_13T>C__intergenic
+2	13	T	G	intergenic	CHR_START-orf1ab	13T>G		0.6	13	CHR_START-orf1ab_13T>G__intergenic
+3	14	A	C	intergenic	CHR_START-orf1ab	14A>C		0.6667	14	CHR_START-orf1ab_14A>C__intergenic
+4	15	C	T	intergenic	CHR_START-orf1ab	15C>T		0.2286	15	CHR_START-orf1ab_15C>T__intergenic
+7	20	CCAGGT	C	intergenic	CHR_START-orf1ab	21_25delCAGGT		0.04	21_25	CHR_START-orf1ab_21_25delCAGGT__intergenic
+9	21	C	G	intergenic	CHR_START-orf1ab	21C>G		0.2368	21	CHR_START-orf1ab_21C>G__intergenic
+11	23	G	T	intergenic	CHR_START-orf1ab	23G>T		0.1818	23	CHR_START-orf1ab_23G>T__intergenic
+12	25	TAACAA	T	intergenic	CHR_START-orf1ab	26_30delAACAA		0.0631	26_30	CHR_START-orf1ab_26_30delAACAA__intergenic
+14	28	C	T	intergenic	CHR_START-orf1ab	28C>T		0.0769	28	CHR_START-orf1ab_28C>T__intergenic
+15	30	A	C	intergenic	CHR_START-orf1ab	30A>C		0.044	30	CHR_START-orf1ab_30A>C__intergenic
+16	241	C	T	intergenic	CHR_START-orf1ab	241C>T		0.8883	241	CHR_START-orf1ab_241C>T__intergenic
+18	696	A	C	missense	orf1ab	431A>C	As44Ala	0.9184	431	orf1ab_431A>C_As44Ala_missense
+19	3037	C	T	synonymous	orf1ab	2772C>T	Phe924Phe	0.8705	2772	orf1ab_2772C>T_Phe924Phe_synonymous
+20	3931	T	C	synonymous	orf1ab	3666T>C	Val1222Val	0.8254	3666	orf1ab_3666T>C_Val1222Val_synonymous
+21	4226	C	T	missense	orf1ab	3961C>T	Pro1321Ser	0.9021	3961	orf1ab_3961C>T_Pro1321Ser_missense
+22	6696	C	CT	frameshift	orf1ab	6435dupT	Leu2146fs	0.0509	6435	orf1ab_6435dupT_Leu2146fs_frameshift
+23	7837	A	C	missense	orf1ab	7572A>C	Leu2524Phe	0.8425	7572	orf1ab_7572A>C_Leu2524Phe_missense
+24	10279	C	T	synonymous	orf1ab	10014C>T	Leu3338Leu	0.9134	10014	orf1ab_10014C>T_Leu3338Leu_synonymous
+26	14408	C	T	missense	orf1ab	14144C>T	Pro4715Leu	0.9133	14144	orf1ab_14144C>T_Pro4715Leu_missense
+36	20056	G	A	missense	orf1ab	19792G>A	Gly6598Ser	0.7655	19792	orf1ab_19792G>A_Gly6598Ser_missense

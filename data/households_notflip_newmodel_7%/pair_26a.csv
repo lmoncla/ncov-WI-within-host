@@ -1,0 +1,4 @@
+	SNP	FREQ_index	FREQ_contact	total_reads_contact	variant_reads_contact
+0	CHRSTART-orf1ab_83:T>C_intergenic-region_none	0.29545	0.0	4414.0	0.0
+1	orf1ab_7128:G>A_Cys2288Tyr_missense	0.0945	0.0	1094.0	0.0
+2	orf1ab_10874:A>G_Asn3537Asp_missense	0.40715	0.0	3247.0	0.0

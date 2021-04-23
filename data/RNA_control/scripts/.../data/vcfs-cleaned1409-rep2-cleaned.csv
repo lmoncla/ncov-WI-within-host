@@ -1,0 +1,14 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	FREQ	gene_POS	SNP
+1	24	G	T	intergenic	CHR_START-orf1ab	24G>T		0.0375	24	CHR_START-orf1ab_24G>T__intergenic
+7	241	C	T	intergenic	CHR_START-orf1ab	241C>T		0.6965	241	CHR_START-orf1ab_241C>T__intergenic
+13	696	A	C	missense	orf1ab	431A>C	As44Ala	0.7277	431	orf1ab_431A>C_As44Ala_missense
+21	3037	C	T	synonymous	orf1ab	2772C>T	Phe924Phe	0.6003	2772	orf1ab_2772C>T_Phe924Phe_synonymous
+24	3931	T	C	synonymous	orf1ab	3666T>C	Val1222Val	0.5587	3666	orf1ab_3666T>C_Val1222Val_synonymous
+25	4226	C	T	missense	orf1ab	3961C>T	Pro1321Ser	0.709	3961	orf1ab_3961C>T_Pro1321Ser_missense
+32	6843	C	T	missense	orf1ab	6578C>T	Ser2193Phe	0.0434	6578	orf1ab_6578C>T_Ser2193Phe_missense
+35	7837	A	C	missense	orf1ab	7572A>C	Leu2524Phe	0.5618	7572	orf1ab_7572A>C_Leu2524Phe_missense
+60	14408	C	T	missense	orf1ab	14144C>T	Pro4715Leu	0.7242	14144	orf1ab_14144C>T_Pro4715Leu_missense
+71	15102	T	C	synonymous	orf1ab	14838T>C	Ala4946Ala	0.0521	14838	orf1ab_14838T>C_Ala4946Ala_synonymous
+81	16266	A	C	synonymous	orf1ab	16002A>C	Ser5334Ser	0.0302	16002	orf1ab_16002A>C_Ser5334Ser_synonymous
+220	29721	C	A	intergenic	ORF10-CHR_END	29721C>A		0.0319	29721	ORF10-CHR_END_29721C>A__intergenic
+221	29722	C	A	intergenic	ORF10-CHR_END	29722C>A		0.0358	29722	ORF10-CHR_END_29722C>A__intergenic

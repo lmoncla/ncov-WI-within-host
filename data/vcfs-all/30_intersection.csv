@@ -1,0 +1,10 @@
+	SNP	POS_x	rep1_percent	rep2_percent	%
+0	orf1ab_8517C>T_Ser2839Ser_synonymous	8782.0	0.9801	0.9822	1.0
+1	orf1ab_16117G>A_Val5373Ile_missense	16381.0	0.983	0.9838	1.0
+2	orf1ab_17613T>C_Thr5871Thr_synonymous	17877.0	0.9749	0.9777	1.0
+3	orf1ab_20052C>T_Phe6684Phe_synonymous	20316.0	0.9603	0.9519	0.9561
+4	ORF3a_108G>T_Pro36Pro_synonymous	25500.0	0.9906	0.985	1.0
+5	ORF3a_732C>T_Val244Val_synonymous	26124.0	0.9881	0.9811	1.0
+6	ORF8_251T>C_Leu84Ser_missense	28144.0	0.9981	0.9976	1.0
+7	N_605G>A_Ser202Asn_missense	28878.0	0.9958	0.9969	1.0
+8	ORF10-CHR_END_29742G>A__intergenic	29742.0	0.9967	0.9945	1.0

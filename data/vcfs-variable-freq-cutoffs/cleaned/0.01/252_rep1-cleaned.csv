@@ -1,0 +1,21 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	read_depth	FREQ	gene_POS	SNP
+3	15118	G	T	missense	orf1ab	14854G>T	Val4952Phe	1565	0.016	14854	orf1ab_14854G>T_Val4952Phe_missense
+4	15122	C	T	missense	orf1ab	14858C>T	Ser4953Phe	1565	0.0179	14858	orf1ab_14858C>T_Ser4953Phe_missense
+5	15131	G	T	missense	orf1ab	14867G>T	Ser4956Ile	1565	0.0109	14867	orf1ab_14867G>T_Ser4956Ile_missense
+6	15133	A	C	missense	orf1ab	14869A>C	Thr4957Pro	1565	0.0115	14869	orf1ab_14869A>C_Thr4957Pro_missense
+7	15137	T	G	missense	orf1ab	14873T>G	Met4958Arg	1565	0.0121	14873	orf1ab_14873T>G_Met4958Arg_missense
+8	15139	A	C	missense	orf1ab	14875A>C	Thr4959Pro	1565	0.0243	14875	orf1ab_14875A>C_Thr4959Pro_missense
+9	15141	C	A	synonymous	orf1ab	14877C>A	Thr4959Thr	1565	0.0141	14877	orf1ab_14877C>A_Thr4959Thr_synonymous
+10	15150	G	T	missense	orf1ab	14886G>T	Gln4962His	1565	0.03	14886	orf1ab_14886G>T_Gln4962His_missense
+11	15157	C	A	missense	orf1ab	14893C>A	Gln4965Lys	1565	0.0569	14893	orf1ab_14893C>A_Gln4965Lys_missense
+12	15168	G	A	synonymous	orf1ab	14904G>A	Leu4968Leu	1565	0.0307	14904	orf1ab_14904G>A_Leu4968Leu_synonymous
+13	15909	T	C	synonymous	orf1ab	15645T>C	Gly5215Gly	3475	0.0101	15645	orf1ab_15645T>C_Gly5215Gly_synonymous
+17	20102	G	T	missense	orf1ab	19838G>T	Ser6613Ile	952	0.0137	19838	orf1ab_19838G>T_Ser6613Ile_missense
+18	20115	C	A	synonymous	orf1ab	19851C>A	Val6617Val	952	0.0116	19851	orf1ab_19851C>A_Val6617Val_synonymous
+19	20117	C	A	missense	orf1ab	19853C>A	Thr6618Lys	952	0.0105	19853	orf1ab_19853C>A_Thr6618Lys_missense
+20	21601	T	C	synonymous	S	39T>C	Ser13Ser	756	0.0106	39	S_39T>C_Ser13Ser_synonymous
+21	21932	A	T	missense	S	370A>T	Thr124Ser	1930	0.0109	370	S_370A>T_Thr124Ser_missense
+22	22356	A	C	missense	S	794A>C	Tyr265Ser	262	0.0229	794	S_794A>C_Tyr265Ser_missense
+24	26063	G	T	missense	ORF3a	671G>T	Gly224Val	2145	0.014	671	ORF3a_671G>T_Gly224Val_missense
+27	28253	C	T	synonymous	ORF8	360C>T	Phe120Phe	2904	0.0134	360	ORF8_360C>T_Phe120Phe_synonymous
+28	29711	G	T	intergenic	ORF10-CHR_END	29711G>T		801	1.0	29711	ORF10-CHR_END_29711G>T__intergenic

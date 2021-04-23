@@ -1,0 +1,28 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	FREQ	gene_POS	SNP
+0	6	A	T	intergenic	CHR_START-orf1ab	6A>T		0.0323	6	CHR_START-orf1ab_6A>T__intergenic
+2	15	C	G	intergenic	CHR_START-orf1ab	15C>G		0.0519	15	CHR_START-orf1ab_15C>G__intergenic
+6	21	C	T	intergenic	CHR_START-orf1ab	21C>T		0.0415	21	CHR_START-orf1ab_21C>T__intergenic
+12	172	T	C	intergenic	CHR_START-orf1ab	172T>C		0.036	172	CHR_START-orf1ab_172T>C__intergenic
+26	229	A	C	intergenic	CHR_START-orf1ab	229A>C		0.0332	229	CHR_START-orf1ab_229A>C__intergenic
+27	241	C	T	intergenic	CHR_START-orf1ab	241C>T		0.7465	241	CHR_START-orf1ab_241C>T__intergenic
+72	3037	C	T	synonymous	orf1ab	2772C>T	Phe924Phe	0.596	2772	orf1ab_2772C>T_Phe924Phe_synonymous
+112	7851	C	T	missense	orf1ab	7586C>T	Ala2529Val	0.0372	7586	orf1ab_7586C>T_Ala2529Val_missense
+166	14073	T	C	synonymous	orf1ab	13809T>C	As603Asp	0.7921	13809	orf1ab_13809T>C_As603Asp_synonymous
+171	14408	C	T	missense	orf1ab	14144C>T	Pro4715Leu	0.753	14144	orf1ab_14144C>T_Pro4715Leu_missense
+185	15096	T	A	missense	orf1ab	14832T>A	Asn4944Lys	0.0356	14832	orf1ab_14832T>A_Asn4944Lys_missense
+189	15102	T	C	synonymous	orf1ab	14838T>C	Ala4946Ala	0.0961	14838	orf1ab_14838T>C_Ala4946Ala_synonymous
+192	15106	A	C	missense	orf1ab	14842A>C	Thr4948Pro	0.1037	14842	orf1ab_14842A>C_Thr4948Pro_missense
+218	16266	A	C	synonymous	orf1ab	16002A>C	Ser5334Ser	0.0376	16002	orf1ab_16002A>C_Ser5334Ser_synonymous
+300	21634	A	AC	frameshift	S	77dupC	Ala27fs	0.0771	77	S_77dupC_Ala27fs_frameshift
+334	23628	G	A	missense	S	2066G>A	Ser689Asn	0.0373	2066	S_2066G>A_Ser689Asn_missense
+338	23634	C	A	missense	S	2072C>A	Ser691Tyr	0.0388	2072	S_2072C>A_Ser691Tyr_missense
+344	23649	C	A	missense	S	2087C>A	Thr696Asn	0.0419	2087	S_2087C>A_Thr696Asn_missense
+346	23651	A	T	missense	S	2089A>T	Met697Leu	0.051	2089	S_2089A>T_Met697Leu_missense
+352	23947	A	G	synonymous	S	2385A>G	Lys795Lys	0.6595	2385	S_2385A>G_Lys795Lys_synonymous
+358	24034	C	T	synonymous	S	2472C>T	Asn824Asn	0.042	2472	S_2472C>T_Asn824Asn_synonymous
+441	28837	A	C	synonymous	N	564A>C	Ser188Ser	0.0304	564	N_564A>C_Ser188Ser_synonymous
+463	29175	G	T	missense	N	902G>T	Tr01Leu	0.031	902	N_902G>T_Tr01Leu_missense
+501	29697	A	C	intergenic	ORF10-CHR_END	29697A>C		0.1747	29697	ORF10-CHR_END_29697A>C__intergenic
+514	29713	A	C	intergenic	ORF10-CHR_END	29713A>C		0.1709	29713	ORF10-CHR_END_29713A>C__intergenic
+520	29721	C	A	intergenic	ORF10-CHR_END	29721C>A		0.1768	29721	ORF10-CHR_END_29721C>A__intergenic
+522	29722	C	A	intergenic	ORF10-CHR_END	29722C>A		0.1769	29722	ORF10-CHR_END_29722C>A__intergenic

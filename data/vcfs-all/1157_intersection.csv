@@ -1,0 +1,15 @@
+	SNP	POS_x	rep1_percent	rep2_percent	%
+0	CHR_START-orf1ab_241C>T__intergenic	241	0.9574	0.9877	1.0
+1	orf1ab_431A>C_As44Ala_missense	696	0.9909	0.9923	1.0
+2	orf1ab_2772C>T_Phe924Phe_synonymous	3037	0.9678	0.9799	1.0
+3	orf1ab_3606G>T_Lys1202Asn_missense	3871	0.9709	0.9722	1.0
+4	orf1ab_3666T>C_Val1222Val_synonymous	3931	0.9714	0.9698	1.0
+5	orf1ab_3961C>T_Pro1321Ser_missense	4226	0.9902	0.987	1.0
+6	orf1ab_5407C>T_Pro1803Ser_missense	5672	0.9719	0.9868	1.0
+7	orf1ab_6137C>A_Pro2046Gln_missense	6402	0.3191	0.3305	0.3248
+8	orf1ab_7572A>C_Leu2524Phe_missense	7837	0.9775	0.9771	1.0
+9	orf1ab_14144C>T_Pro4715Leu_missense	14408	0.9888	0.9840000000000001	1.0
+10	orf1ab_14904G>A_Leu4968Leu_synonymous	15168	0.0964	0.035	0.06570000000000001
+11	orf1ab_19413G>T_Gln6471His_missense	19677	0.9755	0.9781	1.0
+12	S_1841A>G_As14Gly_missense	23403	0.9928	0.9859	1.0
+15	N_704C>T_Ser235Phe_missense	28977	0.9014	0.9213	0.91135

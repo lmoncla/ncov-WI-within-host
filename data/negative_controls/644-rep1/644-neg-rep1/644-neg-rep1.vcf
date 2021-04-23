@@ -1,0 +1,63 @@
+##fileformat=VCFv4.2
+##BBMapVersion=38.87
+##ploidy=1
+##rarity=0.01000
+##minallelefraction=0.01000
+##reads=218
+##pairedReads=0
+##properlyPairedReads=0
+##readLengthAvg=334.950
+##properPairRate=0.00000
+##totalQualityAvg=37.199
+##mapqAvg=46.197
+##reference=ref/MN908947.3.fa
+##contig=<ID=MN908947.3,length=29903>
+##FILTER=<ID=FAIL,Description="Fail">
+##FILTER=<ID=PASS,Description="Pass">
+##INFO=<ID=SN,Number=1,Type=Integer,Description="Scaffold Number">
+##INFO=<ID=STA,Number=1,Type=Integer,Description="Start">
+##INFO=<ID=STO,Number=1,Type=Integer,Description="Stop">
+##INFO=<ID=TYP,Number=1,Type=String,Description="Type">
+##INFO=<ID=R1P,Number=1,Type=Integer,Description="Read1 Plus Count">
+##INFO=<ID=R1M,Number=1,Type=Integer,Description="Read1 Minus Count">
+##INFO=<ID=R2P,Number=1,Type=Integer,Description="Read2 Plus Count">
+##INFO=<ID=R2M,Number=1,Type=Integer,Description="Read2 Minus Count">
+##INFO=<ID=AD,Number=1,Type=Integer,Description="Allele Depth">
+##INFO=<ID=DP,Number=1,Type=Integer,Description="Total Depth">
+##INFO=<ID=MCOV,Number=1,Type=Integer,Description="Minus Coverage">
+##INFO=<ID=PPC,Number=1,Type=Integer,Description="Paired Count">
+##INFO=<ID=AF,Number=1,Type=Float,Description="Allele Fraction">
+##INFO=<ID=RAF,Number=1,Type=Float,Description="Revised Allele Fraction">
+##INFO=<ID=LS,Number=1,Type=Integer,Description="Length Sum">
+##INFO=<ID=MQS,Number=1,Type=Integer,Description="MAPQ Sum">
+##INFO=<ID=MQM,Number=1,Type=Integer,Description="MAPQ Max">
+##INFO=<ID=BQS,Number=1,Type=Integer,Description="Base Quality Sum">
+##INFO=<ID=BQM,Number=1,Type=Integer,Description="Base Quality Max">
+##INFO=<ID=EDS,Number=1,Type=Integer,Description="End Distance Sum">
+##INFO=<ID=EDM,Number=1,Type=Integer,Description="End Distance Max">
+##INFO=<ID=IDS,Number=1,Type=Integer,Description="Identity Sum">
+##INFO=<ID=IDM,Number=1,Type=Integer,Description="Identity Max">
+##INFO=<ID=NVC,Number=1,Type=Integer,Description="Nearby Variation Count">
+##INFO=<ID=FLG,Number=1,Type=Integer,Description="Flagged">
+##INFO=<ID=CED,Number=1,Type=Integer,Description="Contig End Distance">
+##INFO=<ID=HMP,Number=1,Type=Integer,Description="Homopolymer Count">
+##INFO=<ID=SB,Number=1,Type=Float,Description="Strand Bias">
+##INFO=<ID=DP4,Number=4,Type=Integer,Description="Ref+, Ref-, Alt+, Alt-">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+##FORMAT=<ID=DP,Number=1,Type=Integer,Description="Read Depth">
+##FORMAT=<ID=AD,Number=1,Type=Integer,Description="Allele Depth">
+##FORMAT=<ID=AF,Number=1,Type=Float,Description="Allele Fraction">
+##FORMAT=<ID=RAF,Number=1,Type=Float,Description="Revised Allele Fraction">
+##FORMAT=<ID=NVC,Number=1,Type=Integer,Description="Nearby Variation Count">
+##FORMAT=<ID=FLG,Number=1,Type=Integer,Description="Flagged">
+##FORMAT=<ID=SB,Number=1,Type=Float,Description="Strand Bias">
+##FORMAT=<ID=SC,Number=1,Type=Float,Description="Score">
+##FORMAT=<ID=PF,Number=1,Type=String,Description="Pass Filter">
+##SnpEffVersion="5.0 (build 2020-08-09 21:23), by Pablo Cingolani"
+##SnpEffCmd="SnpEff  MN908947.3 tmp/644-neg-rep1.unannotated.vcf "
+##INFO=<ID=ANN,Number=.,Type=String,Description="Functional annotations: 'Allele | Annotation | Annotation_Impact | Gene_Name | Gene_ID | Feature_Type | Feature_ID | Transcript_BioType | Rank | HGVS.c | HGVS.p | cDNA.pos / cDNA.length | CDS.pos / CDS.length | AA.pos / AA.length | Distance | ERRORS / WARNINGS / INFO' ">
+##INFO=<ID=LOF,Number=.,Type=String,Description="Predicted loss of function effects for this variant. Format: 'Gene_Name | Gene_ID | Number_of_transcripts_in_gene | Percent_of_transcripts_affected'">
+##INFO=<ID=NMD,Number=.,Type=String,Description="Predicted nonsense mediated decay effects for this variant. Format: 'Gene_Name | Gene_ID | Number_of_transcripts_in_gene | Percent_of_transcripts_affected'">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO	FORMAT	644-neg-rep1
+MN908947.3	12210	.	A	T	21.56	PASS	SN=0;STA=12209;STO=12210;TYP=SUB;R1P=0;R1M=1;R2P=0;R2M=0;AD=1;DP=11;MCOV=-1;PPC=0;AF=0.0909;RAF=0.0909;LS=324;MQS=45;MQM=45;BQS=39;BQM=39;EDS=76;EDM=76;IDS=990;IDM=990;NVC=0;FLG=0;CED=601;HMP=0;SB=1.0000;ANN=T|missense_variant|MODERATE|orf1ab|Gene_265_21554|transcript|QHD43415.1|protein_coding|1/2|c.11945A>T|p.Lys3982Met|11945/21291|11945/21291|3982/7096||	GT:DP:AD:AF:RAF:NVC:FLG:SB:SC:PF	0:11:1:0.0909:0.0909:0:0:1.0000:21.56:PASS
+MN908947.3	25932	.	T	C	21.11	PASS	SN=0;STA=25931;STO=25932;TYP=SUB;R1P=0;R1M=1;R2P=0;R2M=0;AD=1;DP=10;MCOV=-1;PPC=0;AF=0.1000;RAF=0.1000;LS=337;MQS=45;MQM=45;BQS=36;BQM=36;EDS=39;EDM=39;IDS=994;IDM=994;NVC=0;FLG=0;CED=601;HMP=1;SB=1.0000;ANN=C|synonymous_variant|LOW|ORF3a|Gene_25392_26219|transcript|QHD43417.1|protein_coding|1/1|c.540T>C|p.Ser180Ser|540/828|540/828|180/275||	GT:DP:AD:AF:RAF:NVC:FLG:SB:SC:PF	0:10:1:0.1000:0.1000:0:0:1.0000:21.11:PASS

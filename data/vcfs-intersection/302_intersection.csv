@@ -1,0 +1,44 @@
+	SNP	POS_x	rep1_percent	rep2_percent	%
+0	CHR_START-orf1ab_241C>T__intergenic	241.0	0.9994	1.0	1.0
+27	orf1ab_782A>C_Lys261Thr_missense	1047.0		0.0644	0.0644
+1	orf1ab_794C>T_Thr265Ile_missense	1059.0	0.9998	1.0	1.0
+2	orf1ab_814A>C_Asn272His_missense	1079.0	0.0704		0.0704
+3	orf1ab_1108T>C_Cys370Arg_missense	1373.0	0.0838		0.0838
+28	orf1ab_1151T>C_Leu384Pro_missense	1416.0		0.162	0.162
+29	orf1ab_1152T>C_Leu384Leu_synonymous	1417.0		0.1632	0.1632
+4	orf1ab_1398C>T_As66Asp_synonymous	1663.0	0.1793		0.1793
+5	orf1ab_2772C>T_Phe924Phe_synonymous	3037.0	0.9990000000000001	0.9989	1.0
+6	orf1ab_4327G>A_Glu1443Lys_missense	4592.0	0.1441		0.1441
+30	orf1ab_4579T>A_Phe1527Ile_missense	4844.0		0.1048	0.1048
+7	orf1ab_5445A>C_Glu1815Asp_missense	5710.0	0.0539		0.0539
+31	orf1ab_5809T>C_Phe1937Leu_missense	6074.0		0.1345	0.1345
+8	orf1ab_6155T>G_Val2052Gly_missense	6420.0	0.1131		0.1131
+32	orf1ab_6431C>T_Pro2144Leu_missense	6696.0		0.1666	0.1666
+9	orf1ab_6542C>T_Thr2181Ile_missense	6807.0	0.0472		0.0472
+10	orf1ab_6619G>T_Gly2207Cys_missense	6884.0	0.9996	0.9985	1.0
+33	orf1ab_8846G>C_Arg2949Pro_missense	9111.0		0.1797	0.1797
+34	orf1ab_9413T>C_Phe3138Ser_missense	9678.0		0.1089	0.1089
+11	orf1ab_9628C>T_Leu3210Phe_missense	9893.0	0.0569		0.0569
+35	orf1ab_11389T>C_Phe3797Leu_missense	11654.0		0.0554	0.0554
+12	orf1ab_13572G>A_Arg4524Arg_synonymous	13836.0	0.0654		0.0654
+13	orf1ab_13637A>C_As546Ala_missense	13901.0	0.0646		0.0646
+14	orf1ab_14144C>T_Pro4715Leu_missense	14408.0	0.9998	1.0	1.0
+15	orf1ab_17965T>C_Tyr5989His_missense	18229.0	0.0873		0.0873
+36	orf1ab_18600C>T_Ile6200Ile_synonymous	18864.0		0.0401	0.0401
+37	orf1ab_19604C>T_Thr6535Ile_missense	19868.0		0.0955	0.0955
+38	orf1ab_19774G>A_Gly6592Ser_missense	20038.0		0.1228	0.1228
+39	orf1ab_20978C>T_Thr6993Ile_missense	21242.0		0.1103	0.1103
+16	S_214G>A_Gly72Arg_missense	21776.0	0.0697		0.0697
+17	S_1129T>C_Phe377Leu_missense	22691.0	0.1417		0.1417
+18	S_1282G>T_As28Tyr_missense	22844.0	0.109		0.109
+19	S_1841A>G_As14Gly_missense	23403.0	0.9996	0.9998	1.0
+40	S_2013C>T_Cys671Cys_synonymous	23575.0		0.0549	0.0549
+41	S_2813T>C_Leu938Pro_missense	24375.0		0.2029	0.2029
+20	ORF3a_171G>T_Gln57His_missense	25563.0	0.9992	0.9997	1.0
+21	ORF3a_760G>A_Gly254Arg_missense	26152.0	0.0638		0.0638
+22	E_80T>C_Leu27Ser_missense	26324.0	0.0806		0.0806
+23	M_240T>C_Ile80Ile_synonymous	26762.0	0.0572		0.0572
+24	ORF7a_219C>T_His73His_synonymous	27612.0	0.0555		0.0555
+42	ORF7a_269A>G_Gln90Arg_missense	27662.0		0.1656	0.1656
+25	ORF8_32C>T_Thr11Ile_missense	27925.0	0.0542		0.0542
+26	N_593C>T_Thr198Ile_missense	28866.0	0.0453		0.0453

@@ -1,0 +1,3 @@
+	SNP	FREQ_index	FREQ_contact	total_reads_contact	variant_reads_contact
+0	orf1ab_6402:C>A_Pro2046Gln_missense	0.3248	0.71935	5850.5	4203.0
+1	N_28977:C>T_Ser235Phe_missense	0.91135	0.96635	1865.0	1815.5

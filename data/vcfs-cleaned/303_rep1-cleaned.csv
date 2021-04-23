@@ -1,0 +1,2 @@
+	POS	REF	ALT	annotation	gene	nt_change	aa_change	read_depth	FREQ	gene_POS	SNP
+10	29038	T	C	synonymous	N	765T>C	Ser255Ser	10302	0.0608	765	N_765T>C_Ser255Ser_synonymous
